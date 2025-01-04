@@ -4,19 +4,19 @@
 - [ ] Science Mobile Processing Lab MPL-LG-2 (Large_Crewed_Lab)
 - [ ] PPD-10 Hitchhiker Storage Container (crewCabin)
 - [ ] PPD-12 Cupola Module (cupola)
-- [ ] Mk2 Lander Can (mk2LanderCabin_v2)
+- [x] Mk2 Lander Can (mk2LanderCabin_v2)
 ## Fuel
 - [x] (Rockomax64_BW)
 - [x] (Rockomax32_BW)
 - [x] (Rockomax16_BW)
 - [x] (Rockomax8_BW)
-- [ ] Stratus-V Roundified Monopropellant Tank (radialRCSTank)
-- [ ] Stratus-V Cylindrified Monopropellant Tank (rcsTankRadialLong)
+- [x] Stratus-V Roundified Monopropellant Tank (radialRCSTank)
+- [x] Stratus-V Cylindrified Monopropellant Tank (rcsTankRadialLong)
 - [ ] **[MH]** Stratus-V Minified Monopropellant Tank (MonoPropMini)
 - [ ] **[RS+]** Stratus-V Miniature Monopropellant Tank
-- [ ] FL-R10 RCS Fuel Tank (rcsTankMini)
-- [ ] FL-R25 RCS Fuel Tank (RCSFuelTank)
-- [ ] FL-R1 RCS Fuel Tank (RCSTank1-2)
+- [x] FL-R10 RCS Fuel Tank (rcsTankMini)
+- [x] FL-R25 RCS Fuel Tank (RCSFuelTank)
+- [x] FL-R1 RCS Fuel Tank (RCSTank1-2)
 - [ ] R-4 'Dumpling' External Tank (externalTankRound)
 - [ ] R-11 'Baguette' External Tank (externalTankCapsule)
 - [ ] R-12 'Doughnut' External Tank (externalTankToroid)
@@ -25,8 +25,8 @@
 - [x] Advanced Reaction Wheel Module, Large (asasmodule1-2)
 - [x] RV-105 RCS Thruster Block (RCSBlock_v2)
 - [x] RV-1X RCS Thruster Block (RCSblock_01_small)
-- [ ] **[RS+]** RV-105-A RCS Thruster Block
-- [ ] **[RS+]** RV-1X-A RCS Thruster Block
+- [x] **[RS+]** RV-105-A RCS Thruster Block
+- [x] **[RS+]** RV-1X-A RCS Thruster Block
 - [x] Place-Anywhere 7 Linear RCS Port (linearRcs)
 - [x] Place-Anywhere 1 Linear RCS Port (RCSLinearSmall)
 - [x] Vernor Engine (vernorEngine)
@@ -36,18 +36,15 @@
 ## ## Electrical
 - [x] Z-4K Rechargeable Battery Bank (batteryBankLarge)
 - [x] Z-100 Rechargeable Battery Pack (batteryPack)
-- [ ] OX-STAT Photovoltaic Panels (solarPanels5)
-- [ ] OX-STAT-XL Photovoltaic Panels (LgRadialSolarPanel)
-- [ ] OX-4L 1x6 Photovoltaic Panels (solarPanels4)
-- [ ] SP-L 1x6 Photovoltaic Panels (solarPanels3)
-- [ ] OX-4W 3x2 Photovoltaic Panels (solarPanels2)
-- [ ] SP-W 3x2 Photovoltaic Panels (solarPanels1)
+- [x] OX-STAT Photovoltaic Panels (solarPanels5)
+- [x] OX-STAT-XL Photovoltaic Panels (LgRadialSolarPanel)
+- [x] Gigantor XL Solar Array (largeSolarPanel)
 ## Engines
 - [x] RE-L10 "Poodle" Liquid Fuel Engine (liquidEngine2-2_v2)
 - [x] RE-M3 "Mainsail" Liquid Fuel Engine (liquidEngineMainsail_v2)
 - [x] RE-I5 "Skipper" Liquid Fuel Engine (engineLargeSkipper_v2)
-- [ ] LFB KR-1x2 "Twin-Boar" Liquid Fuel Engine (Size2LFB)
-- [ ] **[RS+]** KR-1 'Boar' Liquid Fuel Engine
+- [x] LFB KR-1x2 "Twin-Boar" Liquid Fuel Engine (Size2LFB)
+- [x] **[RS+]** KR-1 'Boar' Liquid Fuel Engine
 - [x] S1 SRB-KD25k "Kickback" Solid Fuel Booster (MassiveBooster)
 - [x] BACC "Thumper" Solid Fuel Booster (solidBooster1-1)
 - [x] RT-10 "Hammer" Solid Fuel Booster (solidBooster_v2)
@@ -68,6 +65,9 @@
 - [x] **[MH]** TS-18 (Separator_1p5)
 - [x] TS-25 Separator (Separator_2)
 - [x] TS-37 Separator (Separator_3)
+- [ ] Clamp-O-Tron Docking Port (dockingPort2)
+- [ ] Clamp-O-Tron Sr. Docking Port (dockingPortLarge)
+- [ ] Clamp-O-Tron Shielded Docking Port (dockingPort1)
 ## Structural
 - [x] FL-A10 Adapter (adapterSmallMiniTall)
 - [x] FL-A5 Adapter (adapterSmallMiniShort)
@@ -83,17 +83,27 @@
 - [x] AV-T1 Winglet (winglet)
 - [x] Delta-Deluxe Winglet (winglet3)
 ## Thermal
-- [ ] Heat Shield (1.25m) (HeatShield1)
-- [ ] Heat Shield (2.5m) (HeatShield2)
+- [x] Heat Shield (1.25m) (HeatShield1)
+- [x] Heat Shield (2.5m) (HeatShield2)
 - [ ] Heat Shield (10m) (InflatableHeatShield)
+- [ ] Radiator Panel (edge) (radPanelEdge)
+- [ ] Radiator Panel (small) (radPanelSm)
+- [ ] Radiator Panel (large) (radPanelLg)
+- [ ] Thermal Control System (small) (foldingRadSmall)
+- [ ] Thermal Control System (medium) (foldingRadMed)
+- [ ] Thermal Control System (large) (foldingRadLarge)
+## Payload
+- [x] AE-FF1 Airstream Protective Shell (1.25m) (fairingSize1)
+- [x] AE-FF2 Airstream Protective Shell (2.5m) (fairingSize2)
+- [x] AE-FF3 Airstream Protective Shell  (3.75m) (fairingSize3)
 ## Utility
-- [ ] Mk16 Parachute (parachuteSingle)
-- [ ] Mk16-XL Parachute (parachuteLarge)
-- [ ] Mk25 Parachute (parachuteDrogue)
-- [ ] Mk2-R Radial-Mount Parachute (parachuteRadial)
-- [ ] Mk12-R Radial-Mount Drogue Chute (radialDrogue)
-- [ ] Pegasus I Mobility Enhancer (ladder1)
-- [ ] **[RS+]** Pegasus II Mobility Enhancer
-- [ ] **[RS+]** Pegasus III Mobility Enhancer
-- [ ] Kelus Mobility Enhancer (telescopicLadder)
-- [ ] Kelus-LV Bay Mobility Enhancer (telescopicLadderBay)
+- [x] Mk16 Parachute (parachuteSingle)
+- [x] Mk16-XL Parachute (parachuteLarge)
+- [x] Mk25 Parachute (parachuteDrogue)
+- [x] Mk2-R Radial-Mount Parachute (parachuteRadial)
+- [x] Mk12-R Radial-Mount Drogue Chute (radialDrogue)
+- [x] Pegasus I Mobility Enhancer (ladder1)
+- [x] **[RS+]** Pegasus II Mobility Enhancer
+- [x] **[RS+]** Pegasus III Mobility Enhancer
+- [x] Kelus Mobility Enhancer (telescopicLadder)
+- [x] Kelus-LV Bay Mobility Enhancer (telescopicLadderBay)
