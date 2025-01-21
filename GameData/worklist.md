@@ -1,117 +1,47 @@
-
+## Aero
+- [x] Basic Fin (basicFin)
+- [x] AV-R8 Winglet (R8winglet)
+- [x] AV-T1 Winglet (winglet)
+- [x] Delta-Deluxe Winglet (winglet3)
+- [x] Aerodynamic Nose Cone (noseCone)
+- [x] Small Nose Cone (standardNoseCone)
+- [x] **[RS+]** restock-nosecone-0625-1
+- [x] Advanced Nose Cone Type A (pointyNoseConeA)
+- [x] Advanced Nose Cone Type B (pointyNoseConeB)
+- [ ] **[RS+]** -1875-1
+- [ ] **[RS+]** restock-nosecone-1875-2
+- [x] Protective Rocket Nose Cone Mk7 (rocketNoseCone_v3)
+- [ ] Protective Rocket Nose Cone Mk12A (rocketNoseConeSize3)
+- [ ] **[RS+]** restock-nosecone-5-1
 ## Command
-- [x] Mk1-3 Command Pod (mk1-3pod) 
-- [x] Science Mobile Processing Lab MPL-LG-2 (Large_Crewed_Lab)
-- [x] PPD-10 Hitchhiker Storage Container (crewCabin)
-- [x] PPD-12 Cupola Module (cupola)
-- [x] Mk2 Lander Can (mk2LanderCabin_v2)
 - [x] Mk1 Command Pod (mk1pod_v2)
 - [x] Mk1 Lander Can (landerCabinSmall)
-## Fuel
-- [ ] Oscar-B Fuel Tank (miniFuelTank)
-- [ ] **[RS+]** (restock-fueltank-sphere-0625-1)
-- [ ] **[RS+]** (restock-fuel-tank-0625-1)
-- [ ] **[RS+]** (restock-fuel-tank-0625-2)
-- [ ] **[RS+]** (restock-fuel-tank-0625-3)
-- [ ] **[RS+]** (restock-fuel-tank-0625-4)
-- [ ] **[RS+]** (restock-fuel-tank-probe-1)
-- [ ] **[RS+]** (restock-fuel-tank-probe-2)
-- [ ] PB-X150 Xenon Container (xenonTank)
-- [ ] PB-X750 Xenon Container (xenonTankLarge)
-- [ ] PB-X50R Xenon Container (xenonTankRadial)
-- [x] (Rockomax64_BW)
-- [x] (Rockomax32_BW)
-- [x] (Rockomax16_BW)
-- [x] (Rockomax8_BW)
-- [x] Stratus-V Roundified Monopropellant Tank (radialRCSTank)
-- [x] Stratus-V Cylindrified Monopropellant Tank (rcsTankRadialLong)
-- [ ] **[MH]** Stratus-V Minified Monopropellant Tank (MonoPropMini)
-- [ ] **[RS+]** Stratus-V Miniature Monopropellant Tank ()
-- [x] FL-R10 RCS Fuel Tank (rcsTankMini)
-- [x] FL-R25 RCS Fuel Tank (RCSFuelTank)
-- [x] FL-R1 RCS Fuel Tank (RCSTank1-2)
-- [ ] R-4 'Dumpling' External Tank (externalTankRound)
-- [ ] R-11 'Baguette' External Tank (externalTankCapsule)
-- [ ] R-12 'Doughnut' External Tank (externalTankToroid)
-- [ ] FL-T100 Fuel Tank (fuelTankSmallFlat)
-- [ ] FL-T200 Fuel Tank (fuelTankSmall)
-- [ ] FL-T400 Fuel Tank (fuelTank)
-- [ ] FL-T800 Fuel Tank (fuelTank_long)
-- [ ] **[RS+]** (restock-fueltank-sphere-0625-1)
-- [ ] **[RS+]** (restock-fueltank-sphere-125-1)
-- [ ] **[RS+]** (restock-fueltank-sphere-25-1)
+- [x] Mk1-3 Command Pod (mk1-3pod) 
+- [x] PPD-12 Cupola Module (cupola)
+- [x] Mk2 Lander Can (mk2LanderCabin_v2)
+- [x] Science Mobile Processing Lab MPL-LG-2 (Large_Crewed_Lab)
+- [x] PPD-10 Hitchhiker Storage Container (crewCabin)
 ## Control
+- [ ] Small Inline Reaction Wheel (sasModule)
 - [x] Advanced Inline Stabilizer (advSasModule)
+- [ ] **[RS+]** restock-reactionwheel-1875-1
 - [x] Advanced Reaction Wheel Module, Large (asasmodule1-2)
 - [x] RV-105 RCS Thruster Block (RCSBlock_v2)
 - [x] RV-1X RCS Thruster Block (RCSblock_01_small)
-- [x] **[RS+]** RV-105-A RCS Thruster Block
-- [x] **[RS+]** RV-1X-A RCS Thruster Block
 - [x] Place-Anywhere 7 Linear RCS Port (linearRcs)
 - [x] Place-Anywhere 1 Linear RCS Port (RCSLinearSmall)
 - [x] Vernor Engine (vernorEngine)
-## Probes
-restock-drone-core-0625-1
-- [x] RC-001S Remote Guidance Unit (probeStackSmall)
-- [x] RC-L01 Remote Guidance Unit (probeStackLarge)
-Probodobodyne QBE (probeCoreCube)
-- [ ] Probodobodyne Stayputnik (probeCoreSphere_v2)
-- [ ] Probodobodyne HECS (probeCoreHex_v2)
-- [ ] Probodobodyne OKTO (probeCoreOcto_v2)
-- [ ] Probodobodyne OKTO2 (probeCoreOcto2_v2)
-- [ ] Probodobodyne HECS2 (HECS2_ProbeCore)
-- [ ] Probodobodyne RoveMate (roverBody_v2)
-## Electrical
-- [x] Z-4K Rechargeable Battery Bank (batteryBankLarge)
-- [x] Z-100 Rechargeable Battery Pack (batteryPack)
-- [x] Z-100 Rechargeable Battery Pack (batteryPack)
-- [x] Z-400 Rechargeable Battery (ksp_r_largeBatteryPack)
-- [x] Z-200 Rechargeable Battery Bank (batteryBankMini)
-- [x] OX-STAT Photovoltaic Panels (solarPanels5)
-- [x] OX-STAT-XL Photovoltaic Panels (LgRadialSolarPanel)
-- [x] Gigantor XL Solar Array (largeSolarPanel)
-- [x] OX-10C Photovoltaic Panels (solarPanelOX10C)
-- [x] SP-10C Photovoltaic Panels (solarPanelSP10C)
-- [x] PB-NUK Radioisotope Thermoelectric Generator (rtg)
-## Engines
-- [ ] IX-6315 "Dawn" Electric Propulsion System (ionEngine)
-- [ ] LV-1 "Ant" Liquid Fuel Engine (microEngine_v2)
-- [ ] LV-1R "Spider" Liquid Fuel Engine (radialEngineMini_v2)
-- [ ] 48-7S "Spark" Liquid Fuel Engine (liquidEngineMini_v2)
-- [ ] 24-77 "Twitch" Liquid Fuel Engine (smallRadialEngine_v2)
-- [ ] O-10 "Puff" MonoPropellant Fuel Engine (omsEngine)
-- [ ] FM1 'Mite' SRB (Mite)
-- [ ] F3S0 'Shrimp' SRB (Shrimp)
-- [ ] **[RS+]** (restock-engine-torch)
-- [x] Separatron I (sepMotor1)
-- [x] S1 SRB-KD25k "Kickback" Solid Fuel Booster (MassiveBooster)
-- [x] BACC "Thumper" Solid Fuel Booster (solidBooster1-1)
-- [x] RT-10 "Hammer" Solid Fuel Booster (solidBooster_v2)
-- [x] RT-5 "Flea" Solid Fuel Booster (solidBooster_sm_v2)
-- [ ] LV-N "Nerv" Atomic Rocket Motor (nuclearEngine)
-- [ ] S3 KS-25 "Vector" Liquid Fuel Engine (SSME)
-- [ ] LV-909 "Terrier" Liquid Fuel Engine (liquidEngine3_v2)
-- [ ] LV-T30 "Reliant" Liquid Fuel Engine (liquidEngine_v2)
-- [ ] LV-T45 "Swivel" Liquid Fuel Engine (liquidEngine2_v2)
-- [ ] **[RS+]** (restock-engine-125-pug)
-- [ ] **[RS+]** (restock-engine-125-valiant)
-- [x] RE-L10 "Poodle" Liquid Fuel Engine (liquidEngine2-2_v2)
-- [x] RE-M3 "Mainsail" Liquid Fuel Engine (liquidEngineMainsail_v2)
-- [x] RE-I5 "Skipper" Liquid Fuel Engine (engineLargeSkipper_v2)
-- [x] LFB KR-1x2 "Twin-Boar" Liquid Fuel Engine (Size2LFB)
-- [x] **[RS+]** KR-1 'Boar' Liquid Fuel Engine ()
-- [x] **[RS+]** (restock-engine-cherenkov)
-- [ ] 'Thoroughbred' SRB (Thoroughbred)
-- [ ]  S2-33 'Clydesdale' SRB (Clydesdale)
-- [ ] Kerbodyne KR-2L+ "Rhino" Liquid Fuel Engine (Size3AdvancedEngine)
-- [ ] S3 KS-25x4 "Mammoth" Liquid Fuel Engine (Size3EngineCluster)
+- [x] **[RS+]** RV-105-A RCS Thruster Block
+- [x] **[RS+]** RV-1X-A RCS Thruster Block
 ## Coupling
 - [x] TD-06 Decoupler (Decoupler_0)
 - [x] TD-12 Decoupler (Decoupler_1)
 - [x] **[MH]** TD-18 (Decoupler_1p5)
 - [x] **[RS+]** TD-18 (restock-decoupler-1875-1)
+- [ ] **[RS+]** restock-decoupler-1875-truss-1
 - [x] TD-25 Decoupler (Decoupler_2)
 - [x] TD-37 Decoupler (Decoupler_3)
+- [ ] **[RS+]** restock-decoupler-5-1
 - [x] TD-38K Decoupler (radialDecoupler)
 - [x] TD-70 Decoupler (radialDecoupler2)
 - [x] Hydraulic Detachment Manifold (radialDecoupler1-2)
@@ -122,13 +52,157 @@ Probodobodyne QBE (probeCoreCube)
 - [x] **[RS+]** TS-18 (restock-separator-1875-1)
 - [x] TS-25 Separator (Separator_2)
 - [x] TS-37 Separator (Separator_3)
+- [ ] **[RS+]** restock-separator-5-1
 - [x] Clamp-O-Tron Jr. Docking Port (dockingPort3)
 - [x] Clamp-O-Tron Docking Port (dockingPort2)
 - [x] Clamp-O-Tron Sr. Docking Port (dockingPortLarge)
+- [ ] **[RS+]** restock-docking-375-1
 - [x] Clamp-O-Tron Shielded Docking Port (dockingPort1)
+- [ ] Inline Clamp-O-Tron (dockingPortLateral)
+- [ ] Mk2 Clamp-O-Tron (mk2DockingPort)
+## Electrical
+- [x] Z-200 Rechargeable Battery Bank (batteryBankMini)
+- [ ] Z-1K Rechargeable Battery Bank (batteryBank)
+- [ ] **[RS+]** restock-battery-1875-1
+- [x] Z-4K Rechargeable Battery Bank (batteryBankLarge)
+- [ ] **[RS+]** restock-battery-375-1
+- [x] Z-100 Rechargeable Battery Pack (batteryPack)
+- [x] Z-400 Rechargeable Battery (ksp_r_largeBatteryPack)
+- [x] OX-STAT Photovoltaic Panels (solarPanels5)
+- [x] OX-STAT-XL Photovoltaic Panels (LgRadialSolarPanel)
+- [x] Gigantor XL Solar Array (largeSolarPanel)
+- [x] OX-10C Photovoltaic Panels (solarPanelOX10C)
+- [x] SP-10C Photovoltaic Panels (solarPanelSP10C)
+- [x] PB-NUK Radioisotope Thermoelectric Generator (rtg)
+- [ ] OX-10L Photovoltaic Panels (solarPanelOX10L)
+- [ ] SP-10L Photovoltaic Panels (solarPanelSP10L)
+- [ ] OX-4L 1x6 Photovoltaic Panels (solarPanels4)
+- [ ] SP-L 1x6 Photovoltaic Panels (solarPanels3)
+- [ ] OX-4W 3x2 Photovoltaic Panels (solarPanels2)
+- [ ] SP-W 3x2 Photovoltaic Panels (solarPanels1)
+## Engines
+- [x] LV-1 "Ant" Liquid Fuel Engine (microEngine_v2)
+- [x] LV-1R "Spider" Liquid Fuel Engine (radialEngineMini_v2)
+- [ ] 48-7S "Spark" Liquid Fuel Engine (liquidEngineMini_v2)
+- [ ] 24-77 "Twitch" Liquid Fuel Engine (smallRadialEngine_v2)
+- [x] O-10 "Puff" MonoPropellant Fuel Engine (omsEngine)
+- [x] FM1 'Mite' SRB (Mite)
+- [x] F3S0 'Shrimp' SRB (Shrimp)
+- [x] Separatron I (sepMotor1)
+- [x] IX-6315 "Dawn" Electric Propulsion System (ionEngine)
+- [x] **[RS+]** (restock-engine-torch)
+- [ ] LV-909 "Terrier" Liquid Fuel Engine (liquidEngine3_v2)
+- [ ] LV-T30 "Reliant" Liquid Fuel Engine (liquidEngine_v2)
+- [ ] LV-T45 "Swivel" Liquid Fuel Engine (liquidEngine2_v2)
+- [ ] S3 KS-25 "Vector" Liquid Fuel Engine (SSME)
+- [ ] **[RS+]** (restock-engine-125-pug)
+- [ ] **[RS+]** (restock-engine-125-valiant)
+- [ ] LV-N "Nerv" Atomic Rocket Motor (nuclearEngine)
+- [x] S1 SRB-KD25k "Kickback" Solid Fuel Booster (MassiveBooster)
+- [x] BACC "Thumper" Solid Fuel Booster (solidBooster1-1)
+- [x] RT-10 "Hammer" Solid Fuel Booster (solidBooster_v2)
+- [x] RT-5 "Flea" Solid Fuel Booster (solidBooster_sm_v2)
+- [ ] CR-7 R.A.P.I.E.R. Engine (RAPIER)
+- [ ] **[RS+]** restock-engine-caravel-1
+- [ ] **[RS+]** restock-engine-galleon-1
+- [ ] **[RS+]** restock-engine-schnauzer-1
+- [ ] **[RS+]** restock-engine-ursa-1
+- [ ] **[RS+]** restock-srb-castor-1
+- [ ] **[RS+]** restock-engine-panda-1
+- [x] RE-L10 "Poodle" Liquid Fuel Engine (liquidEngine2-2_v2)
+- [x] RE-M3 "Mainsail" Liquid Fuel Engine (liquidEngineMainsail_v2)
+- [x] RE-I5 "Skipper" Liquid Fuel Engine (engineLargeSkipper_v2)
+- [x] LFB KR-1x2 "Twin-Boar" Liquid Fuel Engine (Size2LFB)
+- [x] **[RS+]** KR-1 'Boar' Liquid Fuel Engine ()
+- [ ] **[RS+]** (restock-engine-cherenkov)
+- [ ] 'Thoroughbred' SRB (Thoroughbred)
+- [ ]  S2-33 'Clydesdale' SRB (Clydesdale)
+- [ ] Kerbodyne KR-2L+ "Rhino" Liquid Fuel Engine (Size3AdvancedEngine)
+- [ ] S3 KS-25x4 "Mammoth" Liquid Fuel Engine (Size3EngineCluster)
+- [ ] **[RS+]** restock-engine-375-corgi
+## Fuel
+- [x] Oscar-B Fuel Tank (miniFuelTank)
+- [x] **[RS+]** (restock-fuel-tank-0625-1)
+- [x] **[RS+]** (restock-fuel-tank-0625-2)
+- [x] **[RS+]** (restock-fuel-tank-0625-3)
+- [x] **[RS+]** (restock-fuel-tank-0625-4)
+- [x] **[RS+]** (restock-fuel-tank-probe-1)
+- [x] **[RS+]** (restock-fuel-tank-probe-2)
+- [x] **[RS+]** (restock-fueltank-sphere-0625-1)
+- [ ] FL-T100 Fuel Tank (fuelTankSmallFlat)
+- [ ] FL-T200 Fuel Tank (fuelTankSmall)
+- [ ] FL-T400 Fuel Tank (fuelTank)
+- [ ] FL-T800 Fuel Tank (fuelTank_long)
+- [x] **[RS+]** (restock-fueltank-sphere-125-1)
+- [ ] R-4 'Dumpling' External Tank (externalTankRound)
+- [ ] R-11 'Baguette' External Tank (externalTankCapsule)
+- [ ] R-12 'Doughnut' External Tank (externalTankToroid)
+- [ ] **[RS+]** (restock-fuel-tank-1875-1)
+- [ ] **[RS+]** (restock-fuel-tank-1875-2)
+- [ ] **[RS+]** (restock-fuel-tank-1875-3)
+- [ ] **[RS+]** (restock-fuel-tank-1875-4)
+- [ ] **[RS+]** (restock-fuel-tank-1875-soyuz-1)
+- [ ] **[RS+]** restock-fueltank-adapter-25-1875-1
+- [ ] **[RS+]** restock-fueltank-adapter-1875-125-1
+- [ ] **[RS+]** restock-fueltank-adapter-1875-125-2
+- [ ] **[RS+]** restock-fueltank-adapter-1875-0625-1
+- [x] **[RS+]** (restock-fueltank-sphere-1875-1)
+- [x] (Rockomax64_BW)
+- [x] (Rockomax32_BW)
+- [x] (Rockomax16_BW)
+- [x] (Rockomax8_BW)
+- [x] **[RS+]** (restock-fueltank-sphere-25-1)
+- [ ] Kerbodyne S3-3600 Tank (Size3SmallTank)
+- [ ] Kerbodyne S3-7200 Tank (Size3MediumTank)
+- [ ] Kerbodyne S3-14400 Tank (Size3LargeTank)
+- [ ] **[RS+]** restock-fuel-tank-375-4
+- [x] **[RS+]** (restock-fueltank-sphere-375-1)
+- [ ] **[RS+]** restock-nosecone-375-1
+- [ ] **[RS+]** restock-fueltank-5-1
+- [ ] **[RS+]** restock-fueltank-5-2
+- [ ] **[RS+]** restock-fueltank-5-3
+- [ ] **[RS+]** restock-fueltank-5-4
+- [ ] **[RS+]** restock-fueltank-adapter-375-5-1
+- [ ] **[RS+]** restock-fueltank-saturn-engine-1
+- [x] FL-R10 RCS Fuel Tank (rcsTankMini)
+- [x] FL-R25 RCS Fuel Tank (RCSFuelTank)
+- [ ] **[RS+]** restock-fuel-tank-rcs-1875-1
+- [x] FL-R1 RCS Fuel Tank (RCSTank1-2)
+- [ ] **[RS+]** restock-fuel-tank-rcs-375-1
+- [ ] **[MH]** Stratus-V Minified Monopropellant Tank (MonoPropMini)
+- [ ] **[RS+]** Stratus-V Miniature Monopropellant Tank ()
+- [x] Stratus-V Roundified Monopropellant Tank (radialRCSTank)
+- [x] Stratus-V Cylindrified Monopropellant Tank (rcsTankRadialLong)
+- [x] PB-X150 Xenon Container (xenonTank)
+- [x] PB-X750 Xenon Container (xenonTankLarge)
+- [x] PB-X50R Xenon Container (xenonTankRadial)
+## Payload
+- [ ] **[RS+]** restock-fairing-base-0625-1
+- [x] AE-FF1 Airstream Protective Shell (1.25m) (fairingSize1)
+- [ ] **[RS+]** restock-fairing-base-1875-1
+- [x] AE-FF2 Airstream Protective Shell (2.5m) (fairingSize2)
+- [x] AE-FF3 Airstream Protective Shell  (3.75m) (fairingSize3)
+- [ ] Service Bay (1.25m) (ServiceBay_125_v2)
+- [ ] **[RS+]** restock-service-bay-1875-1
+- [ ] Service Bay (2.5m) (ServiceBay_250_v2)
+## Probes
+- [ ] **[RS+]** restock-drone-core-0625-1
+- [x] RC-001S Remote Guidance Unit (probeStackSmall)
+- [ ] **[RS+]** restock-drone-core-1875-1
+- [x] RC-L01 Remote Guidance Unit (probeStackLarge)
+- [ ] **[RS+]** restock-drone-core-375-1
+- [ ] Probodobodyne QBE (probeCoreCube)
+- [ ] Probodobodyne Stayputnik (probeCoreSphere_v2)
+- [ ] Probodobodyne HECS (probeCoreHex_v2)
+- [ ] Probodobodyne OKTO (probeCoreOcto_v2)
+- [ ] Probodobodyne OKTO2 (probeCoreOcto2_v2)
+- [ ] Probodobodyne HECS2 (HECS2_ProbeCore)
+- [ ] Probodobodyne RoveMate (roverBody_v2)
 ## Structural
 - [x] FL-A10 Adapter (adapterSmallMiniTall)
 - [x] FL-A5 Adapter (adapterSmallMiniShort)
+- [ ] **[RS+]** restock-adapter-1875-25-1
+- [ ] **[RS+]** restock-adapter-1875-125-1
 - [x] Rockomax Brand Adapter (largeAdapter)
 - [x] Rockomax Brand Adapter 02 (largeAdapter2)
 - [x] Rockomax HubMax Multi-Point Connector
@@ -146,22 +220,20 @@ Probodobodyne QBE (probeCoreCube)
 - [x] **[RS+]** restock-truss-adapter-0625-1
 - [x] **[RS+]** restock-truss-hub-1
 - [ ] **[RS+]** restock-structural-tube-125-1
+- [ ] **[RS+]** restock-structural-tube-1875-1
 - [ ] **[RS+]** restock-structural-tube-25-1
-## Aero
-- [x] Aerodynamic Nose Cone (noseCone)
-- [x] Advanced Nose Cone Type A (pointyNoseConeA)
-- [x] Advanced Nose Cone Type B (pointyNoseConeB)
-- [x] Protective Rocket Nose Cone Mk7 (rocketNoseCone_v3)
-- [x] Basic Fin (basicFin)
-- [x] AV-R8 Winglet (R8winglet)
-- [x] AV-T1 Winglet (winglet)
-- [x] Delta-Deluxe Winglet (winglet3)
-- [x] Small Nose Cone (standardNoseCone)
-- [x] **[RS+]** restock-nosecone-0625-1
+- [ ] **[RS+]** restock-structural-tube-375-1
+- [ ] **[RS+]** restock-structural-tube-5-1
+- [ ]  Kerbodyne ADTP-2-3 (Size3to2Adapter_v2)
+- [ ]  M-1x1 Structural Panel (structuralPanel1)
+- [ ]  M-2x2 Structural Panel (structuralPanel2)
+- [ ] **[RS+]** restock-adapter-hollow-25-375-1
+- [ ] **[RS+]** restock-adapter-skeletal-25-375-1
 ## Thermal
 - [x] Heat Shield (0.625m) (HeatShield0)
 - [x] Heat Shield (1.25m) (HeatShield1)
 - [x] Heat Shield (2.5m) (HeatShield2)
+- [ ] **[RS+]** restock-heatshield-1875-1
 - [x] Heat Shield (3.75m) (HeatShield3)
 - [x] Heat Shield (10m) (InflatableHeatShield)
 - [x] Radiator Panel (edge) (radPanelEdge)
@@ -170,13 +242,6 @@ Probodobodyne QBE (probeCoreCube)
 - [x] Thermal Control System (small) (foldingRadSmall)
 - [x] Thermal Control System (medium) (foldingRadMed)
 - [x] Thermal Control System (large) (foldingRadLarge)
-## Payload
-- [ ] **[RS+]** restock-fairing-base-0625-1
-- [x] AE-FF1 Airstream Protective Shell (1.25m) (fairingSize1)
-- [x] AE-FF2 Airstream Protective Shell (2.5m) (fairingSize2)
-- [x] AE-FF3 Airstream Protective Shell  (3.75m) (fairingSize3)
-- [ ] Service Bay (1.25m) (ServiceBay_125_v2)
-- [ ] Service Bay (2.5m) (ServiceBay_250_v2)
 ## Utility
 - [x] Mk16 Parachute (parachuteSingle)
 - [x] Mk16-XL Parachute (parachuteLarge)
@@ -190,8 +255,8 @@ Probodobodyne QBE (probeCoreCube)
 - [x] Kelus-LV Bay Mobility Enhancer (telescopicLadderBay)
 - [ ] Illuminator Mk1 (spotLight1)
 - [ ] Illuminator Mk2 (spotLight2)
-- [ ] MDomelight Mk1(Nertea) (domeLight1)
-- [ ] Spotlight Mk1 (Nertea) (spotLight3)
+- [ ] Domelight Mk1 (domeLight1)
+- [ ] Spotlight Mk1 (spotLight3)
 - [ ] LightStrip Mk1 (stripLight1)
 - [ ] Navigation Light Mk1 (navLight1)
 - [ ] Work Lamp - Small (groundLight1)
