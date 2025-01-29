@@ -8,11 +8,52 @@
 - [x] **[RS+]** restock-nosecone-0625-1
 - [x] Advanced Nose Cone Type A (pointyNoseConeA)
 - [x] Advanced Nose Cone Type B (pointyNoseConeB)
-- [ ] **[RS+]** -1875-1
-- [ ] **[RS+]** restock-nosecone-1875-2
+- [x] **[RS+]** restock-nosecone-1875-1
 - [x] Protective Rocket Nose Cone Mk7 (rocketNoseCone_v3)
-- [ ] Protective Rocket Nose Cone Mk12A (rocketNoseConeSize3)
-- [ ] **[RS+]** restock-nosecone-5-1
+- [x] Protective Rocket Nose Cone Mk12A (rocketNoseConeSize3)
+- [x] restock-nosecone-375-1
+- [x] **[RS+]** restock-nosecone-5-1
+- [?] Small Circular Intake
+- [?] Circular Intake
+- [?] Adjustable Ramp Intake
+- [?] Shock Cone Intake
+- [?] Mk1 Diverterless Supersonic Intake
+- [?] Engine Nacelle
+- [?] Engine Pre-cooler
+- [?] XM-G50 Radial Air Intake
+- [?] Adjustable Ramp Intake (Radial)
+- [?] Tail Connector A
+- [?] Tail Connector B
+- [?] Wing Connector Type A
+- [?] Wing Connector Type B
+- [?] Wing Connector Type C
+- [?] Wing Connector Type D
+- [?] Wing Connector Type E
+- [?] Delta Wing
+- [?] Small Delta Wing
+- [?] Wing Strake
+- [?] Structural Wing Type A
+- [?] Structural Wing Type B
+- [?] Structural Wing Type C
+- [?] Structural Wing Type D
+- [?] Swept Wing Type A
+- [?] Swept Wing Type B
+- [?] Swept Wings
+- [?] FAT-455 Aeroplane Main Wing
+- [?] Big-S Wing Strake
+- [?] Big-S Delta Wing
+- [?] FAT-455 Aeroplane Tail Fin
+- [?] Tail Fin
+- [?] FAT-455 Aeroplane Tail Fin
+- [?] Big-S Spaceplane Tail Fin
+- [?] Elevon 1
+- [?] Elevon 2
+- [?] Elevon 3
+- [?] Elevon 4
+- [?] Big-S Elevon 1
+- [?] Big-S Elevon 2
+- [?] FAT-455 Aeroplane Control Surface
+- [?]  A.I.R.B.R.A.K.E.S
 ## Command
 - [x] Mk1 Command Pod (mk1pod_v2)
 - [x] Mk1 Lander Can (landerCabinSmall)
@@ -21,10 +62,40 @@
 - [x] Mk2 Lander Can (mk2LanderCabin_v2)
 - [x] Science Mobile Processing Lab MPL-LG-2 (Large_Crewed_Lab)
 - [x] PPD-10 Hitchhiker Storage Container (crewCabin)
+- [-] **[RS+]** restock-pod-sphere-1 [Well]
+- [-] **[RS+]** restock-pod-sphere-2 [Well]
+- [-] **[RS+]** restock-pod-sphere-3 [Well]
+- [-] **[RS+]** restock-mk2-pod [drewcassidy]
+- [-] EAS-1 External Command Seat (seatExternalCmd) [Kaveric]
+- [?] Mk3 Cockpit
+- [?] Mk2 Inline Cockpit
+- [?] Mk2 Cockpit
+- [?] Mk1 Inline Cockpit
+- [?] Mk1 Cockpit
+- [?] Mk1 Crew Cabin
+- [?] Mk3 Passenger Module
+- [?] MK2 Crew Cabin
+## Communication
+- [-] Communotron 16 (longAntenna) [drewcassidy]
+- [-] Communotron 16-S (surfAntenna) [drewcassidy]
+- [-] Communotron DTS-M1 (mediumDishAntenna) [drewcassidy]
+- [-] Communotron HG-55 (HighGainAntenna) [drewcassidy]
+- [-] Communotron 88-88 (commDish) [drewcassidy]
+- [-] Legacy HG-5 High Gain Antenna (HighGainAntenna5) [drewcassidy]
+- [-] HG-5 High Gain Antenna (HighGainAntenna5_v2) [drewcassidy]
+- [-] RA-2 Relay Antenna (RelayAntenna5) [drewcassidy]
+- [-] RA-15 Relay Antenna (RelayAntenna50) [drewcassidy]
+- [-] RA-100 Relay Antenna (RelayAntenna100) [drewcassidy]
+- [-] **[RS+]** restock-antenna-stack-2 [drewcassidy]
+- [-] **[RS+]** restock-antenna-stack-3 [drewcassidy]
+- [-] **[RS+]**  restock-relay-radial-2_v2 [drewcassidy]
+## Compound
+- [-] FTX-2 External Fuel Duct (fuelLine) [drewcassidy]
+- [-] EAS-4 Strut Connector (strutConnector) [drewcassidy]
 ## Control
-- [ ] Small Inline Reaction Wheel (sasModule)
+- [-] Small Inline Reaction Wheel (sasModule) [drewcassidy]
 - [x] Advanced Inline Stabilizer (advSasModule)
-- [ ] **[RS+]** restock-reactionwheel-1875-1
+- [x] **[RS+]** restock-reactionwheel-1875-1
 - [x] Advanced Reaction Wheel Module, Large (asasmodule1-2)
 - [x] RV-105 RCS Thruster Block (RCSBlock_v2)
 - [x] RV-1X RCS Thruster Block (RCSblock_01_small)
@@ -33,6 +104,7 @@
 - [x] Vernor Engine (vernorEngine)
 - [x] **[RS+]** RV-105-A RCS Thruster Block
 - [x] **[RS+]** RV-1X-A RCS Thruster Block
+- [-] **[RS+]** restock-reactionwheel-radial-1 [drewcassidy]
 ## Coupling
 - [x] TD-06 Decoupler (Decoupler_0)
 - [x] TD-12 Decoupler (Decoupler_1)
@@ -56,14 +128,22 @@
 - [x] Clamp-O-Tron Jr. Docking Port (dockingPort3)
 - [x] Clamp-O-Tron Docking Port (dockingPort2)
 - [x] Clamp-O-Tron Sr. Docking Port (dockingPortLarge)
-- [ ] **[RS+]** restock-docking-375-1
+- [x] **[RS+]** restock-docking-375-1
 - [x] Clamp-O-Tron Shielded Docking Port (dockingPort1)
 - [ ] Inline Clamp-O-Tron (dockingPortLateral)
 - [ ] Mk2 Clamp-O-Tron (mk2DockingPort)
+- [-] Advanced Grabbing Unit (GrapplingDevice) [drewcassidy]
+- [-] Advanced Grabbing Unit Jr. (smallClaw) [drewcassidy]
+- [-] **[RS+]** restock-engineplate-125-1 [drewcassidy]
+- [-] **[RS+]** restock-engineplate-1875-1 [drewcassidy]
+- [-] **[RS+]** restock-engineplate-25-1 [drewcassidy]
+- [-] **[RS+]** restock-engineplate-375-1 [drewcassidy]
+- [-] **[RS+]** restock-engineplate-5-1 [drewcassidy]
+- [-] **[RS+]** restock-airlock-1 [drewcassidy]
 ## Electrical
 - [x] Z-200 Rechargeable Battery Bank (batteryBankMini)
-- [ ] Z-1K Rechargeable Battery Bank (batteryBank)
-- [ ] **[RS+]** restock-battery-1875-1
+- [x] Z-1K Rechargeable Battery Bank (batteryBank)
+- [x] **[RS+]** restock-battery-1875-1
 - [x] Z-4K Rechargeable Battery Bank (batteryBankLarge)
 - [ ] **[RS+]** restock-battery-375-1
 - [x] Z-100 Rechargeable Battery Pack (batteryPack)
@@ -74,17 +154,20 @@
 - [x] OX-10C Photovoltaic Panels (solarPanelOX10C)
 - [x] SP-10C Photovoltaic Panels (solarPanelSP10C)
 - [x] PB-NUK Radioisotope Thermoelectric Generator (rtg)
-- [ ] OX-10L Photovoltaic Panels (solarPanelOX10L)
-- [ ] SP-10L Photovoltaic Panels (solarPanelSP10L)
-- [ ] OX-4L 1x6 Photovoltaic Panels (solarPanels4)
-- [ ] SP-L 1x6 Photovoltaic Panels (solarPanels3)
-- [ ] OX-4W 3x2 Photovoltaic Panels (solarPanels2)
-- [ ] SP-W 3x2 Photovoltaic Panels (solarPanels1)
+- [-] OX-10L Photovoltaic Panels (solarPanelOX10L)
+- [-] SP-10L Photovoltaic Panels (solarPanelSP10L)
+- [-] OX-4L 1x6 Photovoltaic Panels (solarPanels4)
+- [-] SP-L 1x6 Photovoltaic Panels (solarPanels3)
+- [-] OX-4W 3x2 Photovoltaic Panels (solarPanels2)
+- [-] SP-W 3x2 Photovoltaic Panels (solarPanels1)
+- [-] **[RS+]** restock-apu-radial-1 [drewcassidy]
+- [-] Fuel Cell (FuelCell) [drewcassidy]
+- [-] Fuel Cell Array (FuelCellArray) [drewcassidy]
 ## Engines
 - [x] LV-1 "Ant" Liquid Fuel Engine (microEngine_v2)
 - [x] LV-1R "Spider" Liquid Fuel Engine (radialEngineMini_v2)
-- [ ] 48-7S "Spark" Liquid Fuel Engine (liquidEngineMini_v2)
-- [ ] 24-77 "Twitch" Liquid Fuel Engine (smallRadialEngine_v2)
+- [x] 48-7S "Spark" Liquid Fuel Engine (liquidEngineMini_v2)
+- [x] 24-77 "Twitch" Liquid Fuel Engine (smallRadialEngine_v2)
 - [x] O-10 "Puff" MonoPropellant Fuel Engine (omsEngine)
 - [x] FM1 'Mite' SRB (Mite)
 - [x] F3S0 'Shrimp' SRB (Shrimp)
@@ -102,7 +185,12 @@
 - [x] BACC "Thumper" Solid Fuel Booster (solidBooster1-1)
 - [x] RT-10 "Hammer" Solid Fuel Booster (solidBooster_v2)
 - [x] RT-5 "Flea" Solid Fuel Booster (solidBooster_sm_v2)
+- [?] J-20 "Juno" Basic Jet Engine
 - [ ] CR-7 R.A.P.I.E.R. Engine (RAPIER)
+- [?] J-33 "Wheesley" Turbofan Engine
+- [?] J-404 "Panther" Afterburning Turbofan	
+- [?] J-X4 "Whiplash" Turbo Ramjet Engine
+- [?] J-90 "Goliath" Turbofan Engine
 - [ ] **[RS+]** restock-engine-caravel-1
 - [ ] **[RS+]** restock-engine-galleon-1
 - [ ] **[RS+]** restock-engine-schnauzer-1
@@ -120,6 +208,11 @@
 - [ ] Kerbodyne KR-2L+ "Rhino" Liquid Fuel Engine (Size3AdvancedEngine)
 - [ ] S3 KS-25x4 "Mammoth" Liquid Fuel Engine (Size3EngineCluster)
 - [ ] **[RS+]** restock-engine-375-corgi
+- [-] Mk-55 "Thud" Liquid Fuel Engine (radialLiquidEngine1-2) [Kaveric]
+- [-] T-1 Toroidal "Aerospike" Liquid Fuel Engine (toroidalAerospike) [Kaveric]
+- [-] **[MH]** LV-T91 "Cheetah" Liquid Fuel Engine (LiquidEngineLV-T91) [Kaveric]
+- [-] **[MH]** LV-TX87 "Bobcat" Liquid Fuel Engine (LiquidEngineLV-TX87) [Kaveric]
+- [-] Launch Escape System (LaunchEscapeSystem) [drewcassidy]
 ## Fuel
 - [x] Oscar-B Fuel Tank (miniFuelTank)
 - [x] **[RS+]** (restock-fuel-tank-0625-1)
@@ -129,23 +222,23 @@
 - [x] **[RS+]** (restock-fuel-tank-probe-1)
 - [x] **[RS+]** (restock-fuel-tank-probe-2)
 - [x] **[RS+]** (restock-fueltank-sphere-0625-1)
-- [ ] FL-T100 Fuel Tank (fuelTankSmallFlat)
-- [ ] FL-T200 Fuel Tank (fuelTankSmall)
-- [ ] FL-T400 Fuel Tank (fuelTank)
-- [ ] FL-T800 Fuel Tank (fuelTank_long)
+- [x] FL-T100 Fuel Tank (fuelTankSmallFlat)
+- [x] FL-T200 Fuel Tank (fuelTankSmall)
+- [x] FL-T400 Fuel Tank (fuelTank)
+- [x] FL-T800 Fuel Tank (fuelTank_long)
 - [x] **[RS+]** (restock-fueltank-sphere-125-1)
 - [ ] R-4 'Dumpling' External Tank (externalTankRound)
 - [ ] R-11 'Baguette' External Tank (externalTankCapsule)
 - [ ] R-12 'Doughnut' External Tank (externalTankToroid)
-- [ ] **[RS+]** (restock-fuel-tank-1875-1)
-- [ ] **[RS+]** (restock-fuel-tank-1875-2)
-- [ ] **[RS+]** (restock-fuel-tank-1875-3)
-- [ ] **[RS+]** (restock-fuel-tank-1875-4)
-- [ ] **[RS+]** (restock-fuel-tank-1875-soyuz-1)
-- [ ] **[RS+]** restock-fueltank-adapter-25-1875-1
-- [ ] **[RS+]** restock-fueltank-adapter-1875-125-1
-- [ ] **[RS+]** restock-fueltank-adapter-1875-125-2
-- [ ] **[RS+]** restock-fueltank-adapter-1875-0625-1
+- [x] **[RS+]** (restock-fuel-tank-1875-1)
+- [x] **[RS+]** (restock-fuel-tank-1875-2)
+- [x] **[RS+]** (restock-fuel-tank-1875-3)
+- [x] **[RS+]** (restock-fuel-tank-1875-4)
+- [x] **[RS+]** (restock-fuel-tank-1875-soyuz-1)
+- [x] **[RS+]** restock-fueltank-adapter-25-1875-1
+- [x] **[RS+]** restock-fueltank-adapter-1875-125-1
+- [x] **[RS+]** restock-fueltank-adapter-1875-125-2
+- [x] **[RS+]** restock-fueltank-adapter-1875-0625-1
 - [x] **[RS+]** (restock-fueltank-sphere-1875-1)
 - [x] (Rockomax64_BW)
 - [x] (Rockomax32_BW)
@@ -176,21 +269,71 @@
 - [x] PB-X150 Xenon Container (xenonTank)
 - [x] PB-X750 Xenon Container (xenonTankLarge)
 - [x] PB-X50R Xenon Container (xenonTankRadial)
+- [?] NCS Adapter
+- [?] Mk0 Liquid Fuel Fuselage
+- [?] Mk1 Liquid Fuel Fuselage
+- [?] Mk2 Liquid Fuel Fuselage Short
+- [?] Mk2 Liquid Fuel Fuselage 
+- [?] Mk2 Rocket Fuel Fuselage Short
+- [?] Mk2 Rocket Fuel Fuselage 
+- [?] Mk2 to 1.25m Adapter
+- [?] Mk2 to 1.25m Adapter Long
+- [?] 2.5m to Mk2 Adapter
+- [?] Mk3 to Mk2 Adapter
+- [?] Mk3 to 2.5m Adapter
+- [?] Mk3 to 2.5m Adapter Slanted
+- [?] Mk3 to 3.75m Adapter
+- [?] Mk2 Bicoupler
+- [?] Mk3 Rocket Fuel Fuselage Short
+- [?] Mk3 Rocket Fuel Fuselage
+- [?] Mk3 Rocket Fuel Fuselage Long
+- [?] Mk3 Liquid Fuel Fuselage Short
+- [?] Mk3 Liquid Fuel Fuselage
+- [?] Mk3 Liquid Fuel Fuselage Long
+- [?] Mk2 Monopropellant Tank
+- [?] Mk3 Monopropellant Tank
+## Ground
+- [-] LT-05 Micro Landing Strut (miniLandingLeg) [drewcassidy]
+- [-] LT-1 Landing Strut (landingLeg1) [drewcassidy]
+- [-] LT-2 Landing Strut (landingLeg1-2) [drewcassidy]
+- [-] Rovemax Model S2 (roverWheel2) [drewcassidy]
+- [-] Rovemax Model M1 (roverWHeel1) [drewcassidy]
+- [-] TR-2L Ruggedized Wheel (wheelMed) [drewcassidy]
+- [-] **[RS+]** restock-wheel-1-T [drewcassidy]
+- [-] **[RS+]** restock-wheel-4 [drewcassidy] 
+- [?] LY-01 Fixed Landing Gear
+- [?] LY-05 Steerable Landing Gear
+- [?] LY-10 Small Landing Gear
+- [?] LY-35 Medium Landing Gear
+- [?] LY-60 Large Landing Gear
+- [?] LY-60 Large Landing Gear
 ## Payload
-- [ ] **[RS+]** restock-fairing-base-0625-1
+- [x] **[RS+]** restock-fairing-base-0625-1
 - [x] AE-FF1 Airstream Protective Shell (1.25m) (fairingSize1)
-- [ ] **[RS+]** restock-fairing-base-1875-1
+- [x] **[RS+]** restock-fairing-base-1875-1
 - [x] AE-FF2 Airstream Protective Shell (2.5m) (fairingSize2)
 - [x] AE-FF3 Airstream Protective Shell  (3.75m) (fairingSize3)
-- [ ] Service Bay (1.25m) (ServiceBay_125_v2)
-- [ ] **[RS+]** restock-service-bay-1875-1
-- [ ] Service Bay (2.5m) (ServiceBay_250_v2)
+- [x] Service Bay (1.25m) (ServiceBay_125_v2)
+- [x] **[RS+]** restock-service-bay-1875-1
+- [x] Service Bay (2.5m) (ServiceBay_250_v2)
+- [-] SEQ-3 Cargo Storage Unit (smallCargoContainer) [Kaveric]
+- [-] SEQ-3C Conformal Storage Unit (ConformalStorageUnit) [Kaveric]
+- [-] SEQ-9 Container Module (1.25m) (cargoContainer) [Kaveric]
+- [-] SEQ-24 Cargo Storage Unit (2.5m) (CargoStorageUnit) [Kaveric]
+- [-] **[RS+]** restock-service-module-125-625-1 [Well]
+- [-] **[RS+]** restock-service-module-1875-1 [Well]
+- [?] Mk2 Cargo Bay CRG-04
+- [?] Mk2 Cargo Bay CRG-08
+- [?] Mk3 Cargo Bay CRG-25
+- [?] Mk3 Cargo Bay CRG-50
+- [?] Mk3 Cargo Bay CRG-105
+- [?] Mk3 Cargo Ramp
 ## Probes
-- [ ] **[RS+]** restock-drone-core-0625-1
+- [x] **[RS+]** restock-drone-core-0625-1
 - [x] RC-001S Remote Guidance Unit (probeStackSmall)
-- [ ] **[RS+]** restock-drone-core-1875-1
+- [x] **[RS+]** restock-drone-core-1875-1
 - [x] RC-L01 Remote Guidance Unit (probeStackLarge)
-- [ ] **[RS+]** restock-drone-core-375-1
+- [x] **[RS+]** restock-drone-core-375-1
 - [ ] Probodobodyne QBE (probeCoreCube)
 - [ ] Probodobodyne Stayputnik (probeCoreSphere_v2)
 - [ ] Probodobodyne HECS (probeCoreHex_v2)
@@ -198,6 +341,33 @@
 - [ ] Probodobodyne OKTO2 (probeCoreOcto2_v2)
 - [ ] Probodobodyne HECS2 (HECS2_ProbeCore)
 - [ ] Probodobodyne RoveMate (roverBody_v2)
+## Resources
+- [-] Drill-O-Matic' Mining Excavator (RadialDrill) [drewcassidy] 
+- [-] Drill-O-Matic Junior' Mining Excavator (MiniDrill) [drewcassidy] 
+- [-] FTE-1 Drain Valve (ReleaseValve) [drewcassidy] 
+- [-] Convert-O-Tron 125 (MiniISRU) [drewcassidy] 
+- [-] Convert-O-Tron 250 (ISRU) [drewcassidy] 
+- [-] Radial Holding Tank (RadialOreTank) [drewcassidy] 
+- [-] Small Holding Tank (SmallTank) [drewcassidy] 
+- [-] Large Holding Tank (LargeTank) [drewcassidy] 
+- [-] Surface Scanning Module (SurfaceScanner) [drewcassidy] 
+- [-] M700 Survey Scanner (SurveyScanner) [drewcassidy] 
+- [-] M4435 Narrow-Band Scanner (OrbitalScanner) [drewcassidy] 
+- [-] **[RS+]** restock-oretank-1875-1 [drewcassidy] 
+- [-] **[RS+]** restock-oretank-375-1 [drewcassidy] 
+## Science
+- [-] Thermometer (sensorThermometer) [drewcassidy] 
+- [-] Barometer (sensorBarometer) [drewcassidy] 
+- [-] Accelerometer (sensorAccelerometer) [drewcassidy] 
+- [-] Negative Gravioli Detector (sensorGravimeter) [drewcassidy] 
+- [-] Mystery Goo™ Containment Unit (GooExperiment) [drewcassidy] 
+- [-] SC-9001 Science Jr. (science_module) [drewcassidy] 
+- [-] Atmospheric Fluid Spectro-Variometer (sensorAtmosphere) [drewcassidy] 
+- [-] Experiment Storage Unit (ScienceBox) [drewcassidy] 
+- [-] SENTINEL Infrared Telescope (InfraredTelescope) [drewcassidy] 
+- [-] **[RS+]** restock-goocanister-625-1 [drewcassidy] 
+- [-] **[RS+]** restock-materialbay-radial-1 [drewcassidy] 
+- [-] **[RS+]** restock-sciencebox-stack-1 [drewcassidy] 
 ## Structural
 - [x] FL-A10 Adapter (adapterSmallMiniTall)
 - [x] FL-A5 Adapter (adapterSmallMiniShort)
@@ -229,11 +399,23 @@
 - [ ]  M-2x2 Structural Panel (structuralPanel2)
 - [ ] **[RS+]** restock-adapter-hollow-25-375-1
 - [ ] **[RS+]** restock-adapter-skeletal-25-375-1
+- [-] TT18-A Launch Stability Enhancer (launchClamp1) [drewcassidy] 
+- [-] TVR-200 Stack Bi-Coupler (stackBiCoupler_v2) [drewcassidy] 
+- [-] TVR-1180C Mk1 Stack Tri-Coupler (stackTriCoupler_v2) [drewcassidy] 
+- [-] TVR-2160C Mk2 Stack Quad-Coupler (stackQuadCoupler) [drewcassidy] 
+- [-] TVR-200L Stack Bi-Adapter (adapterLargeSmallBi) [drewcassidy] 
+- [-] TVR-300L Stack Tri-Adapter (adapterLargeSmallTri) [drewcassidy] 
+- [-] TVR-400L Stack Quad-Adapter (adapterLargeSmallQuad) [drewcassidy] 
+- [-] **[RS+]** restock-node-625-1 [drewcassidy] 
+- [-] **[RS+]** restock-node-1875-1 [drewcassidy] 
+- [?] Small Hardpoint
+- [?] Structural Pylon
+- [?] Mk3 Engine Mount
 ## Thermal
 - [x] Heat Shield (0.625m) (HeatShield0)
 - [x] Heat Shield (1.25m) (HeatShield1)
 - [x] Heat Shield (2.5m) (HeatShield2)
-- [ ] **[RS+]** restock-heatshield-1875-1
+- [x] **[RS+]** restock-heatshield-1875-1
 - [x] Heat Shield (3.75m) (HeatShield3)
 - [x] Heat Shield (10m) (InflatableHeatShield)
 - [x] Radiator Panel (edge) (radPanelEdge)
@@ -253,11 +435,11 @@
 - [x] **[RS+]** Pegasus III Mobility Enhancer
 - [x] Kelus Mobility Enhancer (telescopicLadder)
 - [x] Kelus-LV Bay Mobility Enhancer (telescopicLadderBay)
-- [ ] Illuminator Mk1 (spotLight1)
-- [ ] Illuminator Mk2 (spotLight2)
-- [ ] Domelight Mk1 (domeLight1)
-- [ ] Spotlight Mk1 (spotLight3)
-- [ ] LightStrip Mk1 (stripLight1)
-- [ ] Navigation Light Mk1 (navLight1)
-- [ ] Work Lamp - Small (groundLight1)
-- [ ] Work Lamp - Stand (groundLight2)
+- [x] Illuminator Mk1 (spotLight1)
+- [x] Illuminator Mk2 (spotLight2)
+- [x] Domelight Mk1 (domeLight1)
+- [x] Spotlight Mk1 (spotLight3)
+- [x] LightStrip Mk1 (stripLight1)
+- [x] Navigation Light Mk1 (navLight1)
+- [x] Work Lamp - Small (groundLight1)
+- [x] Work Lamp - Stand (groundLight2)
