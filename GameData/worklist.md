@@ -53,7 +53,7 @@
 - [?] Big-S Elevon 1
 - [?] Big-S Elevon 2
 - [?] FAT-455 Aeroplane Control Surface
-- [?]  A.I.R.B.R.A.K.E.S
+- [?] A.I.R.B.R.A.K.E.S
 ## Command
 - [x] Mk1 Command Pod (mk1pod_v2)
 - [x] Mk1 Lander Can (landerCabinSmall)
@@ -110,10 +110,10 @@
 - [x] TD-12 Decoupler (Decoupler_1)
 - [x] **[MH]** TD-18 (Decoupler_1p5)
 - [x] **[RS+]** TD-18 (restock-decoupler-1875-1)
-- [ ] **[RS+]** restock-decoupler-1875-truss-1
+- [x] **[RS+]** restock-decoupler-1875-truss-1
 - [x] TD-25 Decoupler (Decoupler_2)
 - [x] TD-37 Decoupler (Decoupler_3)
-- [ ] **[RS+]** restock-decoupler-5-1
+- [x] **[RS+]** restock-decoupler-5-1
 - [x] TD-38K Decoupler (radialDecoupler)
 - [x] TD-70 Decoupler (radialDecoupler2)
 - [x] Hydraulic Detachment Manifold (radialDecoupler1-2)
@@ -124,7 +124,7 @@
 - [x] **[RS+]** TS-18 (restock-separator-1875-1)
 - [x] TS-25 Separator (Separator_2)
 - [x] TS-37 Separator (Separator_3)
-- [ ] **[RS+]** restock-separator-5-1
+- [x] **[RS+]** restock-separator-5-1
 - [x] Clamp-O-Tron Jr. Docking Port (dockingPort3)
 - [x] Clamp-O-Tron Docking Port (dockingPort2)
 - [x] Clamp-O-Tron Sr. Docking Port (dockingPortLarge)
