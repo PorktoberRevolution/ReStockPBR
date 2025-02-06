@@ -371,8 +371,8 @@
 ## Structural
 - [x] FL-A10 Adapter (adapterSmallMiniTall)
 - [x] FL-A5 Adapter (adapterSmallMiniShort)
-- [ ] **[RS+]** restock-adapter-1875-25-1
-- [ ] **[RS+]** restock-adapter-1875-125-1
+- [x] **[RS+]** restock-adapter-1875-25-1
+- [x] **[RS+]** restock-adapter-1875-125-1
 - [x] Rockomax Brand Adapter (largeAdapter)
 - [x] Rockomax Brand Adapter 02 (largeAdapter2)
 - [x] Rockomax HubMax Multi-Point Connector
