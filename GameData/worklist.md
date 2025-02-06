@@ -145,7 +145,7 @@
 - [x] Z-1K Rechargeable Battery Bank (batteryBank)
 - [x] **[RS+]** restock-battery-1875-1
 - [x] Z-4K Rechargeable Battery Bank (batteryBankLarge)
-- [ ] **[RS+]** restock-battery-375-1
+- [x] **[RS+]** restock-battery-375-1
 - [x] Z-100 Rechargeable Battery Pack (batteryPack)
 - [x] Z-400 Rechargeable Battery (ksp_r_largeBatteryPack)
 - [x] OX-STAT Photovoltaic Panels (solarPanels5)
@@ -154,12 +154,12 @@
 - [x] OX-10C Photovoltaic Panels (solarPanelOX10C)
 - [x] SP-10C Photovoltaic Panels (solarPanelSP10C)
 - [x] PB-NUK Radioisotope Thermoelectric Generator (rtg)
-- [-] OX-10L Photovoltaic Panels (solarPanelOX10L)
-- [-] SP-10L Photovoltaic Panels (solarPanelSP10L)
-- [-] OX-4L 1x6 Photovoltaic Panels (solarPanels4)
-- [-] SP-L 1x6 Photovoltaic Panels (solarPanels3)
-- [-] OX-4W 3x2 Photovoltaic Panels (solarPanels2)
-- [-] SP-W 3x2 Photovoltaic Panels (solarPanels1)
+- [ ] OX-10L Photovoltaic Panels (solarPanelOX10L)
+- [ ] SP-10L Photovoltaic Panels (solarPanelSP10L)
+- [ ] OX-4L 1x6 Photovoltaic Panels (solarPanels4)
+- [ ] SP-L 1x6 Photovoltaic Panels (solarPanels3)
+- [ ] OX-4W 3x2 Photovoltaic Panels (solarPanels2)
+- [ ] SP-W 3x2 Photovoltaic Panels (solarPanels1)
 - [-] **[RS+]** restock-apu-radial-1 [drewcassidy]
 - [-] Fuel Cell (FuelCell) [drewcassidy]
 - [-] Fuel Cell Array (FuelCellArray) [drewcassidy]
@@ -174,13 +174,13 @@
 - [x] Separatron I (sepMotor1)
 - [x] IX-6315 "Dawn" Electric Propulsion System (ionEngine)
 - [x] **[RS+]** (restock-engine-torch)
-- [ ] LV-909 "Terrier" Liquid Fuel Engine (liquidEngine3_v2)
-- [ ] LV-T30 "Reliant" Liquid Fuel Engine (liquidEngine_v2)
-- [ ] LV-T45 "Swivel" Liquid Fuel Engine (liquidEngine2_v2)
-- [ ] S3 KS-25 "Vector" Liquid Fuel Engine (SSME)
-- [ ] **[RS+]** (restock-engine-125-pug)
-- [ ] **[RS+]** (restock-engine-125-valiant)
-- [ ] LV-N "Nerv" Atomic Rocket Motor (nuclearEngine)
+- [x] LV-909 "Terrier" Liquid Fuel Engine (liquidEngine3_v2)
+- [x] LV-T30 "Reliant" Liquid Fuel Engine (liquidEngine_v2)
+- [x] LV-T45 "Swivel" Liquid Fuel Engine (liquidEngine2_v2)
+- [x] S3 KS-25 "Vector" Liquid Fuel Engine (SSME)
+- [x] **[RS+]** (restock-engine-125-pug)
+- [x] **[RS+]** (restock-engine-125-valiant)
+- [x] LV-N "Nerv" Atomic Rocket Motor (nuclearEngine)
 - [x] S1 SRB-KD25k "Kickback" Solid Fuel Booster (MassiveBooster)
 - [x] BACC "Thumper" Solid Fuel Booster (solidBooster1-1)
 - [x] RT-10 "Hammer" Solid Fuel Booster (solidBooster_v2)
@@ -206,7 +206,7 @@
 - [ ] 'Thoroughbred' SRB (Thoroughbred)
 - [ ]  S2-33 'Clydesdale' SRB (Clydesdale)
 - [ ] Kerbodyne KR-2L+ "Rhino" Liquid Fuel Engine (Size3AdvancedEngine)
-- [ ] S3 KS-25x4 "Mammoth" Liquid Fuel Engine (Size3EngineCluster)
+- [x] S3 KS-25x4 "Mammoth" Liquid Fuel Engine (Size3EngineCluster)
 - [ ] **[RS+]** restock-engine-375-corgi
 - [-] Mk-55 "Thud" Liquid Fuel Engine (radialLiquidEngine1-2) [Kaveric]
 - [-] T-1 Toroidal "Aerospike" Liquid Fuel Engine (toroidalAerospike) [Kaveric]
