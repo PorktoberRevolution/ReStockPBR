@@ -334,13 +334,13 @@
 - [x] **[RS+]** restock-drone-core-1875-1
 - [x] RC-L01 Remote Guidance Unit (probeStackLarge)
 - [x] **[RS+]** restock-drone-core-375-1
-- [ ] Probodobodyne QBE (probeCoreCube)
-- [ ] Probodobodyne Stayputnik (probeCoreSphere_v2)
-- [ ] Probodobodyne HECS (probeCoreHex_v2)
-- [ ] Probodobodyne OKTO (probeCoreOcto_v2)
-- [ ] Probodobodyne OKTO2 (probeCoreOcto2_v2)
-- [ ] Probodobodyne HECS2 (HECS2_ProbeCore)
-- [ ] Probodobodyne RoveMate (roverBody_v2)
+- [x] Probodobodyne QBE (probeCoreCube)
+- [x] Probodobodyne Stayputnik (probeCoreSphere_v2)
+- [x] Probodobodyne HECS (probeCoreHex_v2)
+- [x] Probodobodyne OKTO (probeCoreOcto_v2)
+- [x] Probodobodyne OKTO2 (probeCoreOcto2_v2)
+- [x] Probodobodyne HECS2 (HECS2_ProbeCore)
+- [x] Probodobodyne RoveMate (roverBody_v2)
 ## Resources
 - [-] Drill-O-Matic' Mining Excavator (RadialDrill) [drewcassidy] 
 - [-] Drill-O-Matic Junior' Mining Excavator (MiniDrill) [drewcassidy] 
@@ -397,7 +397,7 @@
 - [ ]  M-1x1 Structural Panel (structuralPanel1)
 - [ ]  M-2x2 Structural Panel (structuralPanel2)
 - [x] **[RS+]** restock-adapter-hollow-25-375-1
-- [ ] **[RS+]** restock-adapter-skeletal-25-375-1
+- [x] **[RS+]** restock-adapter-skeletal-25-375-1
 - [-] TT18-A Launch Stability Enhancer (launchClamp1) [drewcassidy] 
 - [-] TVR-200 Stack Bi-Coupler (stackBiCoupler_v2) [drewcassidy] 
 - [-] TVR-1180C Mk1 Stack Tri-Coupler (stackTriCoupler_v2) [drewcassidy] 
