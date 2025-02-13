@@ -227,9 +227,9 @@
 - [x] FL-T400 Fuel Tank (fuelTank)
 - [x] FL-T800 Fuel Tank (fuelTank_long)
 - [x] **[RS+]** (restock-fueltank-sphere-125-1)
-- [ ] R-4 'Dumpling' External Tank (externalTankRound)
-- [ ] R-11 'Baguette' External Tank (externalTankCapsule)
-- [ ] R-12 'Doughnut' External Tank (externalTankToroid)
+- [x] R-4 'Dumpling' External Tank (externalTankRound)
+- [x] R-11 'Baguette' External Tank (externalTankCapsule)
+- [x] R-12 'Doughnut' External Tank (externalTankToroid)
 - [x] **[RS+]** (restock-fuel-tank-1875-1)
 - [x] **[RS+]** (restock-fuel-tank-1875-2)
 - [x] **[RS+]** (restock-fuel-tank-1875-3)
@@ -245,12 +245,12 @@
 - [x] (Rockomax16_BW)
 - [x] (Rockomax8_BW)
 - [x] **[RS+]** (restock-fueltank-sphere-25-1)
-- [ ] Kerbodyne S3-3600 Tank (Size3SmallTank)
-- [ ] Kerbodyne S3-7200 Tank (Size3MediumTank)
-- [ ] Kerbodyne S3-14400 Tank (Size3LargeTank)
-- [ ] **[RS+]** restock-fuel-tank-375-4
+- [x] Kerbodyne S3-3600 Tank (Size3SmallTank)
+- [x] Kerbodyne S3-7200 Tank (Size3MediumTank)
+- [x] Kerbodyne S3-14400 Tank (Size3LargeTank)
+- [x] Kerbodyne ADTP-2-3 (Size3to2Adapter_v2)
+- [x] **[RS+]** restock-fuel-tank-375-4
 - [x] **[RS+]** (restock-fueltank-sphere-375-1)
-- [ ] **[RS+]** restock-nosecone-375-1
 - [ ] **[RS+]** restock-fueltank-5-1
 - [ ] **[RS+]** restock-fueltank-5-2
 - [ ] **[RS+]** restock-fueltank-5-3
@@ -259,11 +259,11 @@
 - [ ] **[RS+]** restock-fueltank-saturn-engine-1
 - [x] FL-R10 RCS Fuel Tank (rcsTankMini)
 - [x] FL-R25 RCS Fuel Tank (RCSFuelTank)
-- [ ] **[RS+]** restock-fuel-tank-rcs-1875-1
+- [x] **[RS+]** restock-fuel-tank-rcs-1875-1
 - [x] FL-R1 RCS Fuel Tank (RCSTank1-2)
-- [ ] **[RS+]** restock-fuel-tank-rcs-375-1
-- [ ] **[MH]** Stratus-V Minified Monopropellant Tank (MonoPropMini)
-- [ ] **[RS+]** Stratus-V Miniature Monopropellant Tank ()
+- [x] **[RS+]** restock-fuel-tank-rcs-375-1
+- [x] **[MH]** Stratus-V Minified Monopropellant Tank (MonoPropMini)
+- [x] **[RS+]** Stratus-V Miniature Monopropellant Tank ()
 - [x] Stratus-V Roundified Monopropellant Tank (radialRCSTank)
 - [x] Stratus-V Cylindrified Monopropellant Tank (rcsTankRadialLong)
 - [x] PB-X150 Xenon Container (xenonTank)
@@ -394,10 +394,9 @@
 - [ ] **[RS+]** restock-structural-tube-25-1
 - [ ] **[RS+]** restock-structural-tube-375-1
 - [ ] **[RS+]** restock-structural-tube-5-1
-- [ ]  Kerbodyne ADTP-2-3 (Size3to2Adapter_v2)
 - [ ]  M-1x1 Structural Panel (structuralPanel1)
 - [ ]  M-2x2 Structural Panel (structuralPanel2)
-- [ ] **[RS+]** restock-adapter-hollow-25-375-1
+- [x] **[RS+]** restock-adapter-hollow-25-375-1
 - [ ] **[RS+]** restock-adapter-skeletal-25-375-1
 - [-] TT18-A Launch Stability Enhancer (launchClamp1) [drewcassidy] 
 - [-] TVR-200 Stack Bi-Coupler (stackBiCoupler_v2) [drewcassidy] 
