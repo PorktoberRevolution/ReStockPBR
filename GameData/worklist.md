@@ -154,12 +154,12 @@
 - [x] OX-10C Photovoltaic Panels (solarPanelOX10C)
 - [x] SP-10C Photovoltaic Panels (solarPanelSP10C)
 - [x] PB-NUK Radioisotope Thermoelectric Generator (rtg)
-- [ ] OX-10L Photovoltaic Panels (solarPanelOX10L)
-- [ ] SP-10L Photovoltaic Panels (solarPanelSP10L)
-- [ ] OX-4L 1x6 Photovoltaic Panels (solarPanels4)
-- [ ] SP-L 1x6 Photovoltaic Panels (solarPanels3)
-- [ ] OX-4W 3x2 Photovoltaic Panels (solarPanels2)
-- [ ] SP-W 3x2 Photovoltaic Panels (solarPanels1)
+- [x] OX-10L Photovoltaic Panels (solarPanelOX10L)
+- [x] SP-10L Photovoltaic Panels (solarPanelSP10L)
+- [x] OX-4L 1x6 Photovoltaic Panels (solarPanels4)
+- [x] SP-L 1x6 Photovoltaic Panels (solarPanels3)
+- [x] OX-4W 3x2 Photovoltaic Panels (solarPanels2)
+- [x] SP-W 3x2 Photovoltaic Panels (solarPanels1)
 - [-] **[RS+]** restock-apu-radial-1 [drewcassidy]
 - [-] Fuel Cell (FuelCell) [drewcassidy]
 - [-] Fuel Cell Array (FuelCellArray) [drewcassidy]
@@ -191,23 +191,23 @@
 - [?] J-404 "Panther" Afterburning Turbofan	
 - [?] J-X4 "Whiplash" Turbo Ramjet Engine
 - [?] J-90 "Goliath" Turbofan Engine
-- [ ] **[RS+]** restock-engine-caravel-1
-- [ ] **[RS+]** restock-engine-galleon-1
-- [ ] **[RS+]** restock-engine-schnauzer-1
-- [ ] **[RS+]** restock-engine-ursa-1
-- [ ] **[RS+]** restock-srb-castor-1
-- [ ] **[RS+]** restock-engine-panda-1
+- [x] **[RS+]** restock-engine-caravel-1
+- [x] **[RS+]** restock-engine-galleon-1
+- [x] **[RS+]** restock-engine-schnauzer-1
+- [x] **[RS+]** restock-engine-ursa-1
+- [x] **[RS+]** restock-engine-panda-1
+- [x] **[RS+]** restock-srb-castor-1
 - [x] RE-L10 "Poodle" Liquid Fuel Engine (liquidEngine2-2_v2)
 - [x] RE-M3 "Mainsail" Liquid Fuel Engine (liquidEngineMainsail_v2)
 - [x] RE-I5 "Skipper" Liquid Fuel Engine (engineLargeSkipper_v2)
 - [x] LFB KR-1x2 "Twin-Boar" Liquid Fuel Engine (Size2LFB)
 - [x] **[RS+]** KR-1 'Boar' Liquid Fuel Engine ()
-- [ ] **[RS+]** (restock-engine-cherenkov)
-- [ ] 'Thoroughbred' SRB (Thoroughbred)
-- [ ]  S2-33 'Clydesdale' SRB (Clydesdale)
-- [ ] Kerbodyne KR-2L+ "Rhino" Liquid Fuel Engine (Size3AdvancedEngine)
+- [x] **[RS+]** (restock-engine-cherenkov)
+- [x] 'Thoroughbred' SRB (Thoroughbred)
+- [x]  S2-33 'Clydesdale' SRB (Clydesdale)
 - [x] S3 KS-25x4 "Mammoth" Liquid Fuel Engine (Size3EngineCluster)
-- [ ] **[RS+]** restock-engine-375-corgi
+- [x] Kerbodyne KR-2L+ "Rhino" Liquid Fuel Engine (Size3AdvancedEngine)
+- [x] **[RS+]** restock-engine-375-corgi
 - [-] Mk-55 "Thud" Liquid Fuel Engine (radialLiquidEngine1-2) [Kaveric]
 - [-] T-1 Toroidal "Aerospike" Liquid Fuel Engine (toroidalAerospike) [Kaveric]
 - [-] **[MH]** LV-T91 "Cheetah" Liquid Fuel Engine (LiquidEngineLV-T91) [Kaveric]
@@ -389,11 +389,11 @@
 - [x] **[RS+]** restock-truss-3
 - [x] **[RS+]** restock-truss-adapter-0625-1
 - [x] **[RS+]** restock-truss-hub-1
-- [ ] **[RS+]** restock-structural-tube-125-1
-- [ ] **[RS+]** restock-structural-tube-1875-1
-- [ ] **[RS+]** restock-structural-tube-25-1
-- [ ] **[RS+]** restock-structural-tube-375-1
-- [ ] **[RS+]** restock-structural-tube-5-1
+- [x] **[RS+]** restock-structural-tube-125-1
+- [x] **[RS+]** restock-structural-tube-1875-1
+- [x] **[RS+]** restock-structural-tube-25-1
+- [x] **[RS+]** restock-structural-tube-375-1
+- [x] **[RS+]** restock-structural-tube-5-1
 - [ ]  M-1x1 Structural Panel (structuralPanel1)
 - [ ]  M-2x2 Structural Panel (structuralPanel2)
 - [x] **[RS+]** restock-adapter-hollow-25-375-1
