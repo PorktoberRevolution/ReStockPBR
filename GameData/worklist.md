@@ -66,7 +66,7 @@
 - [-] **[RS+]** restock-pod-sphere-2 [Well]
 - [-] **[RS+]** restock-pod-sphere-3 [Well]
 - [-] **[RS+]** restock-mk2-pod [drewcassidy]
-- [-] EAS-1 External Command Seat (seatExternalCmd) [Kaveric]
+- [k] EAS-1 External Command Seat (seatExternalCmd) [Kaveric]
 - [?] Mk3 Cockpit
 - [?] Mk2 Inline Cockpit
 - [?] Mk2 Cockpit
@@ -76,24 +76,24 @@
 - [?] Mk3 Passenger Module
 - [?] MK2 Crew Cabin
 ## Communication
-- [-] Communotron 16 (longAntenna) [drewcassidy]
-- [-] Communotron 16-S (surfAntenna) [drewcassidy]
-- [-] Communotron DTS-M1 (mediumDishAntenna) [drewcassidy]
-- [-] Communotron HG-55 (HighGainAntenna) [drewcassidy]
-- [-] Communotron 88-88 (commDish) [drewcassidy]
-- [-] Legacy HG-5 High Gain Antenna (HighGainAntenna5) [drewcassidy]
-- [-] HG-5 High Gain Antenna (HighGainAntenna5_v2) [drewcassidy]
-- [-] RA-2 Relay Antenna (RelayAntenna5) [drewcassidy]
-- [-] RA-15 Relay Antenna (RelayAntenna50) [drewcassidy]
-- [-] RA-100 Relay Antenna (RelayAntenna100) [drewcassidy]
-- [-] **[RS+]** restock-antenna-stack-2 [drewcassidy]
-- [-] **[RS+]** restock-antenna-stack-3 [drewcassidy]
-- [-] **[RS+]**  restock-relay-radial-2_v2 [drewcassidy]
+- [ ] Communotron 16 (longAntenna) [drewcassidy]
+- [ ] Communotron 16-S (surfAntenna) [drewcassidy]
+- [ ] Communotron DTS-M1 (mediumDishAntenna) [drewcassidy]
+- [ ] Communotron HG-55 (HighGainAntenna) [drewcassidy]
+- [ ] Communotron 88-88 (commDish) [drewcassidy]
+- [ ] Legacy HG-5 High Gain Antenna (HighGainAntenna5) [drewcassidy]
+- [ ] HG-5 High Gain Antenna (HighGainAntenna5_v2) [drewcassidy]
+- [ ] RA-2 Relay Antenna (RelayAntenna5) [drewcassidy]
+- [ ] RA-15 Relay Antenna (RelayAntenna50) [drewcassidy]
+- [ ] RA-100 Relay Antenna (RelayAntenna100) [drewcassidy]
+- [ ] **[RS+]** restock-antenna-stack-2 [drewcassidy]
+- [ ] **[RS+]** restock-antenna-stack-3 [drewcassidy]
+- [ ] **[RS+]**  restock-relay-radial-2_v2 [drewcassidy]
 ## Compound
 - [-] FTX-2 External Fuel Duct (fuelLine) [drewcassidy]
 - [-] EAS-4 Strut Connector (strutConnector) [drewcassidy]
 ## Control
-- [-] Small Inline Reaction Wheel (sasModule) [drewcassidy]
+- [ ] Small Inline Reaction Wheel (sasModule) [drewcassidy]
 - [x] Advanced Inline Stabilizer (advSasModule)
 - [x] **[RS+]** restock-reactionwheel-1875-1
 - [x] Advanced Reaction Wheel Module, Large (asasmodule1-2)
@@ -104,7 +104,7 @@
 - [x] Vernor Engine (vernorEngine)
 - [x] **[RS+]** RV-105-A RCS Thruster Block
 - [x] **[RS+]** RV-1X-A RCS Thruster Block
-- [-] **[RS+]** restock-reactionwheel-radial-1 [drewcassidy]
+- [ ] **[RS+]** restock-reactionwheel-radial-1 [drewcassidy]
 ## Coupling
 - [x] TD-06 Decoupler (Decoupler_0)
 - [x] TD-12 Decoupler (Decoupler_1)
@@ -160,9 +160,9 @@
 - [x] SP-L 1x6 Photovoltaic Panels (solarPanels3)
 - [x] OX-4W 3x2 Photovoltaic Panels (solarPanels2)
 - [x] SP-W 3x2 Photovoltaic Panels (solarPanels1)
-- [-] **[RS+]** restock-apu-radial-1 [drewcassidy]
-- [-] Fuel Cell (FuelCell) [drewcassidy]
-- [-] Fuel Cell Array (FuelCellArray) [drewcassidy]
+- [ ] **[RS+]** restock-apu-radial-1 [drewcassidy]
+- [ ] Fuel Cell (FuelCell) [drewcassidy]
+- [ ] Fuel Cell Array (FuelCellArray) [drewcassidy]
 ## Engines
 - [x] LV-1 "Ant" Liquid Fuel Engine (microEngine_v2)
 - [x] LV-1R "Spider" Liquid Fuel Engine (radialEngineMini_v2)
@@ -208,10 +208,10 @@
 - [x] S3 KS-25x4 "Mammoth" Liquid Fuel Engine (Size3EngineCluster)
 - [x] Kerbodyne KR-2L+ "Rhino" Liquid Fuel Engine (Size3AdvancedEngine)
 - [x] **[RS+]** restock-engine-375-corgi
-- [-] Mk-55 "Thud" Liquid Fuel Engine (radialLiquidEngine1-2) [Kaveric]
-- [-] T-1 Toroidal "Aerospike" Liquid Fuel Engine (toroidalAerospike) [Kaveric]
-- [-] **[MH]** LV-T91 "Cheetah" Liquid Fuel Engine (LiquidEngineLV-T91) [Kaveric]
-- [-] **[MH]** LV-TX87 "Bobcat" Liquid Fuel Engine (LiquidEngineLV-TX87) [Kaveric]
+- [k] Mk-55 "Thud" Liquid Fuel Engine (radialLiquidEngine1-2) [Kaveric]
+- [k] T-1 Toroidal "Aerospike" Liquid Fuel Engine (toroidalAerospike) [Kaveric]
+- [k] **[MH]** LV-T91 "Cheetah" Liquid Fuel Engine (LiquidEngineLV-T91) [Kaveric]
+- [k] **[MH]** LV-TX87 "Bobcat" Liquid Fuel Engine (LiquidEngineLV-TX87) [Kaveric]
 - [-] Launch Escape System (LaunchEscapeSystem) [drewcassidy]
 ## Fuel
 - [x] Oscar-B Fuel Tank (miniFuelTank)
@@ -316,10 +316,10 @@
 - [x] Service Bay (1.25m) (ServiceBay_125_v2)
 - [x] **[RS+]** restock-service-bay-1875-1
 - [x] Service Bay (2.5m) (ServiceBay_250_v2)
-- [-] SEQ-3 Cargo Storage Unit (smallCargoContainer) [Kaveric]
-- [-] SEQ-3C Conformal Storage Unit (ConformalStorageUnit) [Kaveric]
-- [-] SEQ-9 Container Module (1.25m) (cargoContainer) [Kaveric]
-- [-] SEQ-24 Cargo Storage Unit (2.5m) (CargoStorageUnit) [Kaveric]
+- [k] SEQ-3 Cargo Storage Unit (smallCargoContainer) [Kaveric]
+- [k] SEQ-3C Conformal Storage Unit (ConformalStorageUnit) [Kaveric]
+- [k] SEQ-9 Container Module (1.25m) (cargoContainer) [Kaveric]
+- [k] SEQ-24 Cargo Storage Unit (2.5m) (CargoStorageUnit) [Kaveric]
 - [-] **[RS+]** restock-service-module-125-625-1 [Well]
 - [-] **[RS+]** restock-service-module-1875-1 [Well]
 - [?] Mk2 Cargo Bay CRG-04
@@ -342,32 +342,33 @@
 - [x] Probodobodyne HECS2 (HECS2_ProbeCore)
 - [x] Probodobodyne RoveMate (roverBody_v2)
 ## Resources
-- [-] Drill-O-Matic' Mining Excavator (RadialDrill) [drewcassidy] 
-- [-] Drill-O-Matic Junior' Mining Excavator (MiniDrill) [drewcassidy] 
+- [ ] Drill-O-Matic' Mining Excavator (RadialDrill) [drewcassidy] 
+- [ ] Drill-O-Matic Junior' Mining Excavator (MiniDrill) [drewcassidy] 
 - [-] FTE-1 Drain Valve (ReleaseValve) [drewcassidy] 
 - [-] Convert-O-Tron 125 (MiniISRU) [drewcassidy] 
 - [-] Convert-O-Tron 250 (ISRU) [drewcassidy] 
-- [-] Radial Holding Tank (RadialOreTank) [drewcassidy] 
-- [-] Small Holding Tank (SmallTank) [drewcassidy] 
-- [-] Large Holding Tank (LargeTank) [drewcassidy] 
+- [ ] Radial Holding Tank (RadialOreTank) [drewcassidy] 
+- [ ] Small Holding Tank (SmallTank) [drewcassidy] 
+- [ ] Large Holding Tank (LargeTank) [drewcassidy] 
 - [-] Surface Scanning Module (SurfaceScanner) [drewcassidy] 
 - [-] M700 Survey Scanner (SurveyScanner) [drewcassidy] 
 - [-] M4435 Narrow-Band Scanner (OrbitalScanner) [drewcassidy] 
-- [-] **[RS+]** restock-oretank-1875-1 [drewcassidy] 
-- [-] **[RS+]** restock-oretank-375-1 [drewcassidy] 
+- [ ] **[RS+]** restock-oretank-1875-1 [drewcassidy] 
+- [ ] **[RS+]** restock-oretank-375-1 [drewcassidy] 
 ## Science
-- [-] Thermometer (sensorThermometer) [drewcassidy] 
-- [-] Barometer (sensorBarometer) [drewcassidy] 
-- [-] Accelerometer (sensorAccelerometer) [drewcassidy] 
-- [-] Negative Gravioli Detector (sensorGravimeter) [drewcassidy] 
-- [-] Mystery Goo™ Containment Unit (GooExperiment) [drewcassidy] 
-- [-] SC-9001 Science Jr. (science_module) [drewcassidy] 
-- [-] Atmospheric Fluid Spectro-Variometer (sensorAtmosphere) [drewcassidy] 
-- [-] Experiment Storage Unit (ScienceBox) [drewcassidy] 
+- [ ] Thermometer (sensorThermometer) [drewcassidy] 
+- [ ] Barometer (sensorBarometer) [drewcassidy] 
+- [ ] Accelerometer (sensorAccelerometer) [drewcassidy] 
+- [ ] Negative Gravioli Detector (sensorGravimeter) [drewcassidy] 
+- [ ] Mystery Goo™ Containment Unit (GooExperiment) [drewcassidy] 
+- [ ] SC-9001 Science Jr. (science_module) [drewcassidy] 
+- [-] Magnetometer
+- [ ] Atmospheric Fluid Spectro-Variometer (sensorAtmosphere) [drewcassidy] 
+- [ ] Experiment Storage Unit (ScienceBox) [drewcassidy] 
 - [-] SENTINEL Infrared Telescope (InfraredTelescope) [drewcassidy] 
-- [-] **[RS+]** restock-goocanister-625-1 [drewcassidy] 
-- [-] **[RS+]** restock-materialbay-radial-1 [drewcassidy] 
-- [-] **[RS+]** restock-sciencebox-stack-1 [drewcassidy] 
+- [ ] **[RS+]** restock-goocanister-625-1 [drewcassidy] 
+- [ ] **[RS+]** restock-materialbay-radial-1 [drewcassidy] 
+- [ ] **[RS+]** restock-sciencebox-stack-1 [drewcassidy] 
 ## Structural
 - [x] FL-A10 Adapter (adapterSmallMiniTall)
 - [x] FL-A5 Adapter (adapterSmallMiniShort)
