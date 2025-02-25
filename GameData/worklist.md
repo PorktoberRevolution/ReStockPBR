@@ -76,24 +76,24 @@
 - [?] Mk3 Passenger Module
 - [?] MK2 Crew Cabin
 ## Communication
-- [ ] Communotron 16 (longAntenna) [drewcassidy]
-- [ ] Communotron 16-S (surfAntenna) [drewcassidy]
-- [ ] Communotron DTS-M1 (mediumDishAntenna) [drewcassidy]
-- [ ] Communotron HG-55 (HighGainAntenna) [drewcassidy]
-- [ ] Communotron 88-88 (commDish) [drewcassidy]
-- [ ] Legacy HG-5 High Gain Antenna (HighGainAntenna5) [drewcassidy]
-- [ ] HG-5 High Gain Antenna (HighGainAntenna5_v2) [drewcassidy]
-- [ ] RA-2 Relay Antenna (RelayAntenna5) [drewcassidy]
-- [ ] RA-15 Relay Antenna (RelayAntenna50) [drewcassidy]
-- [ ] RA-100 Relay Antenna (RelayAntenna100) [drewcassidy]
-- [ ] **[RS+]** restock-antenna-stack-2 [drewcassidy]
-- [ ] **[RS+]** restock-antenna-stack-3 [drewcassidy]
-- [ ] **[RS+]**  restock-relay-radial-2_v2 [drewcassidy]
+- [x] Communotron 16 (longAntenna) [drewcassidy]
+- [x] Communotron 16-S (surfAntenna) [drewcassidy]
+- [x] Communotron DTS-M1 (mediumDishAntenna) [drewcassidy]
+- [x] Communotron HG-55 (HighGainAntenna) [drewcassidy]
+- [x] Communotron 88-88 (commDish) [drewcassidy]
+- [x] Legacy HG-5 High Gain Antenna (HighGainAntenna5) [drewcassidy]
+- [x] HG-5 High Gain Antenna (HighGainAntenna5_v2) [drewcassidy]
+- [x] RA-2 Relay Antenna (RelayAntenna5) [drewcassidy]
+- [x] RA-15 Relay Antenna (RelayAntenna50) [drewcassidy]
+- [x] RA-100 Relay Antenna (RelayAntenna100) [drewcassidy]
+- [x] **[RS+]** restock-antenna-stack-2 [drewcassidy]
+- [x] **[RS+]** restock-antenna-stack-3 [drewcassidy]
+- [x] **[RS+]**  restock-relay-radial-2_v2 [drewcassidy]
 ## Compound
 - [-] FTX-2 External Fuel Duct (fuelLine) [drewcassidy]
 - [-] EAS-4 Strut Connector (strutConnector) [drewcassidy]
 ## Control
-- [ ] Small Inline Reaction Wheel (sasModule) [drewcassidy]
+- [x] Small Inline Reaction Wheel (sasModule) [drewcassidy]
 - [x] Advanced Inline Stabilizer (advSasModule)
 - [x] **[RS+]** restock-reactionwheel-1875-1
 - [x] Advanced Reaction Wheel Module, Large (asasmodule1-2)
@@ -104,7 +104,7 @@
 - [x] Vernor Engine (vernorEngine)
 - [x] **[RS+]** RV-105-A RCS Thruster Block
 - [x] **[RS+]** RV-1X-A RCS Thruster Block
-- [ ] **[RS+]** restock-reactionwheel-radial-1 [drewcassidy]
+- [x] **[RS+]** restock-reactionwheel-radial-1 [drewcassidy]
 ## Coupling
 - [x] TD-06 Decoupler (Decoupler_0)
 - [x] TD-12 Decoupler (Decoupler_1)
@@ -160,9 +160,9 @@
 - [x] SP-L 1x6 Photovoltaic Panels (solarPanels3)
 - [x] OX-4W 3x2 Photovoltaic Panels (solarPanels2)
 - [x] SP-W 3x2 Photovoltaic Panels (solarPanels1)
-- [ ] **[RS+]** restock-apu-radial-1 [drewcassidy]
-- [ ] Fuel Cell (FuelCell) [drewcassidy]
-- [ ] Fuel Cell Array (FuelCellArray) [drewcassidy]
+- [x] **[RS+]** restock-apu-radial-1 [drewcassidy]
+- [x] Fuel Cell (FuelCell) [drewcassidy]
+- [x] Fuel Cell Array (FuelCellArray) [drewcassidy]
 ## Engines
 - [x] LV-1 "Ant" Liquid Fuel Engine (microEngine_v2)
 - [x] LV-1R "Spider" Liquid Fuel Engine (radialEngineMini_v2)
@@ -356,19 +356,19 @@
 - [ ] **[RS+]** restock-oretank-1875-1 [drewcassidy] 
 - [ ] **[RS+]** restock-oretank-375-1 [drewcassidy] 
 ## Science
-- [ ] Thermometer (sensorThermometer) [drewcassidy] 
-- [ ] Barometer (sensorBarometer) [drewcassidy] 
-- [ ] Accelerometer (sensorAccelerometer) [drewcassidy] 
-- [ ] Negative Gravioli Detector (sensorGravimeter) [drewcassidy] 
-- [ ] Mystery Goo™ Containment Unit (GooExperiment) [drewcassidy] 
-- [ ] SC-9001 Science Jr. (science_module) [drewcassidy] 
+- [x] Thermometer (sensorThermometer) [drewcassidy] 
+- [x] Barometer (sensorBarometer) [drewcassidy] 
+- [x] Accelerometer (sensorAccelerometer) [drewcassidy] 
+- [x] Negative Gravioli Detector (sensorGravimeter) [drewcassidy] 
+- [x] Mystery Goo™ Containment Unit (GooExperiment) [drewcassidy] 
+- [x] SC-9001 Science Jr. (science_module) [drewcassidy] 
 - [-] Magnetometer
-- [ ] Atmospheric Fluid Spectro-Variometer (sensorAtmosphere) [drewcassidy] 
-- [ ] Experiment Storage Unit (ScienceBox) [drewcassidy] 
+- [x] Atmospheric Fluid Spectro-Variometer (sensorAtmosphere) [drewcassidy] 
+- [x] Experiment Storage Unit (ScienceBox) [drewcassidy] 
 - [-] SENTINEL Infrared Telescope (InfraredTelescope) [drewcassidy] 
-- [ ] **[RS+]** restock-goocanister-625-1 [drewcassidy] 
-- [ ] **[RS+]** restock-materialbay-radial-1 [drewcassidy] 
-- [ ] **[RS+]** restock-sciencebox-stack-1 [drewcassidy] 
+- [x] **[RS+]** restock-goocanister-625-1 [drewcassidy] 
+- [x] **[RS+]** restock-materialbay-radial-1 [drewcassidy] 
+- [x] **[RS+]** restock-sciencebox-stack-1 [drewcassidy] 
 ## Structural
 - [x] FL-A10 Adapter (adapterSmallMiniTall)
 - [x] FL-A5 Adapter (adapterSmallMiniShort)
