@@ -209,7 +209,7 @@
 - [x] Kerbodyne KR-2L+ "Rhino" Liquid Fuel Engine (Size3AdvancedEngine)
 - [x] **[RS+]** restock-engine-375-corgi
 - [x] Mk-55 "Thud" Liquid Fuel Engine (radialLiquidEngine1-2) [Kavaeric]
-- [k] T-1 Toroidal "Aerospike" Liquid Fuel Engine (toroidalAerospike) [Kavaeric]
+- [x] T-1 Toroidal Aerospike "Dart" Liquid Fuel Engine (toroidalAerospike) [Kavaeric]
 - [x] **[MH]** LV-T91 "Cheetah" Liquid Fuel Engine (LiquidEngineLV-T91) [Kavaeric]
 - [x] **[MH]** LV-TX87 "Bobcat" Liquid Fuel Engine (LiquidEngineLV-TX87) [Kavaeric]
 - [-] Launch Escape System (LaunchEscapeSystem) [drewcassidy]
