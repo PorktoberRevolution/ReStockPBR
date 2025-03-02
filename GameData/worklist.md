@@ -208,10 +208,10 @@
 - [x] S3 KS-25x4 "Mammoth" Liquid Fuel Engine (Size3EngineCluster)
 - [x] Kerbodyne KR-2L+ "Rhino" Liquid Fuel Engine (Size3AdvancedEngine)
 - [x] **[RS+]** restock-engine-375-corgi
-- [k] Mk-55 "Thud" Liquid Fuel Engine (radialLiquidEngine1-2) [Kaveric]
-- [k] T-1 Toroidal "Aerospike" Liquid Fuel Engine (toroidalAerospike) [Kaveric]
-- [k] **[MH]** LV-T91 "Cheetah" Liquid Fuel Engine (LiquidEngineLV-T91) [Kaveric]
-- [k] **[MH]** LV-TX87 "Bobcat" Liquid Fuel Engine (LiquidEngineLV-TX87) [Kaveric]
+- [x] Mk-55 "Thud" Liquid Fuel Engine (radialLiquidEngine1-2) [Kavaeric]
+- [k] T-1 Toroidal "Aerospike" Liquid Fuel Engine (toroidalAerospike) [Kavaeric]
+- [x] **[MH]** LV-T91 "Cheetah" Liquid Fuel Engine (LiquidEngineLV-T91) [Kavaeric]
+- [x] **[MH]** LV-TX87 "Bobcat" Liquid Fuel Engine (LiquidEngineLV-TX87) [Kavaeric]
 - [-] Launch Escape System (LaunchEscapeSystem) [drewcassidy]
 ## Fuel
 - [x] Oscar-B Fuel Tank (miniFuelTank)
