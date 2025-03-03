@@ -66,7 +66,7 @@
 - [-] **[RS+]** restock-pod-sphere-2 [Well]
 - [-] **[RS+]** restock-pod-sphere-3 [Well]
 - [-] **[RS+]** restock-mk2-pod [drewcassidy]
-- [k] EAS-1 External Command Seat (seatExternalCmd) [Kaveric]
+- [k] EAS-1 External Command Seat (seatExternalCmd) [Kavaeric]
 - [?] Mk3 Cockpit
 - [?] Mk2 Inline Cockpit
 - [?] Mk2 Cockpit
@@ -316,10 +316,10 @@
 - [x] Service Bay (1.25m) (ServiceBay_125_v2)
 - [x] **[RS+]** restock-service-bay-1875-1
 - [x] Service Bay (2.5m) (ServiceBay_250_v2)
-- [k] SEQ-3 Cargo Storage Unit (smallCargoContainer) [Kaveric]
-- [k] SEQ-3C Conformal Storage Unit (ConformalStorageUnit) [Kaveric]
-- [k] SEQ-9 Container Module (1.25m) (cargoContainer) [Kaveric]
-- [k] SEQ-24 Cargo Storage Unit (2.5m) (CargoStorageUnit) [Kaveric]
+- [x] SEQ-3 Cargo Storage Unit (smallCargoContainer) [Kavaeric]
+- [x] SEQ-3C Conformal Storage Unit (ConformalStorageUnit) [Kavaeric]
+- [x] SEQ-9 Container Module (1.25m) (cargoContainer) [Kavaeric]
+- [x] SEQ-24 Cargo Storage Unit (2.5m) (CargoStorageUnit) [Kavaeric]
 - [-] **[RS+]** restock-service-module-125-625-1 [Well]
 - [-] **[RS+]** restock-service-module-1875-1 [Well]
 - [?] Mk2 Cargo Bay CRG-04
