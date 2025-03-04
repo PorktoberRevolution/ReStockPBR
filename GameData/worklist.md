@@ -66,7 +66,7 @@
 - [-] **[RS+]** restock-pod-sphere-2 [Well]
 - [-] **[RS+]** restock-pod-sphere-3 [Well]
 - [-] **[RS+]** restock-mk2-pod [drewcassidy]
-- [k] EAS-1 External Command Seat (seatExternalCmd) [Kavaeric]
+- [x] EAS-1 External Command Seat (seatExternalCmd) [Kavaeric]
 - [?] Mk3 Cockpit
 - [?] Mk2 Inline Cockpit
 - [?] Mk2 Cockpit
