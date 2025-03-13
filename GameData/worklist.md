@@ -74,11 +74,11 @@
 - [-] **[RS+]** restock-mk2-pod [drewcassidy]
 - [x] EAS-1 External Command Seat (seatExternalCmd) [Kaveric]
 - [?] Mk3 Cockpit
-- [ ] Mk2 Inline Cockpit
+- [x] Mk2 Inline Cockpit
 - [x] Mk2 Cockpit
-- [X] Mk1 Inline Cockpit
-- [X] Mk1 Cockpit
-- [X] Mk1 Crew Cabin
+- [x] Mk1 Inline Cockpit
+- [x] Mk1 Cockpit
+- [x] Mk1 Crew Cabin
 - [?] Mk3 Passenger Module
 - [x] MK2 Crew Cabin
 ## Communication
@@ -192,12 +192,12 @@
 - [x] BACC "Thumper" Solid Fuel Booster (solidBooster1-1)
 - [x] RT-10 "Hammer" Solid Fuel Booster (solidBooster_v2)
 - [x] RT-5 "Flea" Solid Fuel Booster (solidBooster_sm_v2)
-- [k] J-20 "Juno" Basic Jet Engine
+- [ ] J-20 "Juno" Basic Jet Engine
 - [x] CR-7 R.A.P.I.E.R. Engine (RAPIER)
-- [k] J-33 "Wheesley" Turbofan Engine
-- [k] J-404 "Panther" Afterburning Turbofan	
-- [k] J-X4 "Whiplash" Turbo Ramjet Engine
-- [k] J-90 "Goliath" Turbofan Engine
+- [ ] J-33 "Wheesley" Turbofan Engine
+- [ ] J-404 "Panther" Afterburning Turbofan	
+- [ ] J-X4 "Whiplash" Turbo Ramjet Engine
+- [ ] J-90 "Goliath" Turbofan Engine
 - [x] **[RS+]** restock-engine-caravel-1
 - [x] **[RS+]** restock-engine-galleon-1
 - [x] **[RS+]** restock-engine-schnauzer-1
@@ -309,12 +309,12 @@
 - [-] TR-2L Ruggedized Wheel (wheelMed) [drewcassidy]
 - [-] **[RS+]** restock-wheel-1-T [drewcassidy]
 - [-] **[RS+]** restock-wheel-4 [drewcassidy] 
-- [?] LY-01 Fixed Landing Gear
-- [?] LY-05 Steerable Landing Gear
-- [?] LY-10 Small Landing Gear
-- [?] LY-35 Medium Landing Gear
-- [?] LY-60 Large Landing Gear
-- [?] LY-60 Large Landing Gear
+- [ ] LY-01 Fixed Landing Gear
+- [ ] LY-05 Steerable Landing Gear
+- [ ] LY-10 Small Landing Gear
+- [ ] LY-35 Medium Landing Gear
+- [ ] LY-60 Large Landing Gear
+- [ ] LY-60 Large Landing Gear
 ## Payload
 - [x] **[RS+]** restock-fairing-base-0625-1
 - [x] AE-FF1 Airstream Protective Shell (1.25m) (fairingSize1)
@@ -330,8 +330,8 @@
 - [x] SEQ-24 Cargo Storage Unit (2.5m) (CargoStorageUnit) [Kaveric]
 - [-] **[RS+]** restock-service-module-125-625-1 [Well]
 - [-] **[RS+]** restock-service-module-1875-1 [Well]
-- [ ] Mk2 Cargo Bay CRG-04
-- [ ] Mk2 Cargo Bay CRG-08
+- [x] Mk2 Cargo Bay CRG-04
+- [x] Mk2 Cargo Bay CRG-08
 - [?] Mk3 Cargo Bay CRG-25
 - [?] Mk3 Cargo Bay CRG-50
 - [?] Mk3 Cargo Bay CRG-105
