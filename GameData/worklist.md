@@ -30,32 +30,35 @@
 - [+] **[RS+]** restock-intake-mk2-ram-1
 - [x] Tail Connector A
 - [x] Tail Connector B
-- [ ] Wing Connector Type A
-- [ ] Wing Connector Type B
-- [ ] Wing Connector Type C
-- [ ] Wing Connector Type D
-- [ ] Wing Connector Type E
-- [ ] Delta Wing
-- [ ] Small Delta Wing
-- [ ] Wing Strake
-- [ ] Structural Wing Type A
-- [ ] Structural Wing Type B
-- [ ] Structural Wing Type C
-- [ ] Structural Wing Type D
-- [ ] Swept Wing Type A
-- [ ] Swept Wing Type B
+- [x] Wing Connector Type A
+- [x] Wing Connector Type B
+- [x] Wing Connector Type C
+- [x] Wing Connector Type D
+- [x] Wing Connector Type E
+- [x] Delta Wing
+- [x] Small Delta Wing
+- [x] Wing Strake
+- [x] Structural Wing Type A
+- [x] Structural Wing Type B
+- [x] Structural Wing Type C
+- [x] Structural Wing Type D
+- [x] Swept Wing Type A
+- [x] Swept Wing Type B
 - [ ] Swept Wings
+- [ ] Advanced Canard
+- [ ] Standard Canard
 - [?] FAT-455 Aeroplane Main Wing
 - [?] Big-S Wing Strake
 - [?] Big-S Delta Wing
 - [?] FAT-455 Aeroplane Tail Fin
-- [?] Tail Fin
+- [ ] Tail Fin
 - [?] FAT-455 Aeroplane Tail Fin
 - [?] Big-S Spaceplane Tail Fin
-- [ ] Elevon 1
-- [ ] Elevon 2
-- [ ] Elevon 3
-- [ ] Elevon 4
+- [x] Elevon 1
+- [x] Elevon 2
+- [x] Elevon 3
+- [x] Elevon 4
+- [x] Elevon 5
 - [?] Big-S Elevon 1
 - [?] Big-S Elevon 2
 - [?] FAT-455 Aeroplane Control Surface
@@ -309,12 +312,12 @@
 - [-] TR-2L Ruggedized Wheel (wheelMed) [drewcassidy]
 - [-] **[RS+]** restock-wheel-1-T [drewcassidy]
 - [-] **[RS+]** restock-wheel-4 [drewcassidy] 
-- [ ] LY-01 Fixed Landing Gear
-- [ ] LY-05 Steerable Landing Gear
-- [ ] LY-10 Small Landing Gear
-- [ ] LY-35 Medium Landing Gear
-- [ ] LY-60 Large Landing Gear
-- [ ] LY-60 Large Landing Gear
+- [x] LY-01 Fixed Landing Gear
+- [x] LY-05 Steerable Landing Gear
+- [x] LY-10 Small Landing Gear
+- [x] LY-35 Medium Landing Gear
+- [x] LY-60 Large Landing Gear
+- [x] LY-60 Large Landing Gear
 ## Payload
 - [x] **[RS+]** restock-fairing-base-0625-1
 - [x] AE-FF1 Airstream Protective Shell (1.25m) (fairingSize1)
