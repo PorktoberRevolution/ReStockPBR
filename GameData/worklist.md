@@ -195,12 +195,12 @@
 - [x] BACC "Thumper" Solid Fuel Booster (solidBooster1-1)
 - [x] RT-10 "Hammer" Solid Fuel Booster (solidBooster_v2)
 - [x] RT-5 "Flea" Solid Fuel Booster (solidBooster_sm_v2)
-- [ ] J-20 "Juno" Basic Jet Engine
+- [x] J-20 "Juno" Basic Jet Engine
 - [x] CR-7 R.A.P.I.E.R. Engine (RAPIER)
-- [ ] J-33 "Wheesley" Turbofan Engine
+- [x] J-33 "Wheesley" Turbofan Engine
 - [ ] J-404 "Panther" Afterburning Turbofan	
 - [ ] J-X4 "Whiplash" Turbo Ramjet Engine
-- [ ] J-90 "Goliath" Turbofan Engine
+- [x] J-90 "Goliath" Turbofan Engine
 - [x] **[RS+]** restock-engine-caravel-1
 - [x] **[RS+]** restock-engine-galleon-1
 - [x] **[RS+]** restock-engine-schnauzer-1
@@ -353,19 +353,19 @@
 - [x] Probodobodyne HECS2 (HECS2_ProbeCore)
 - [x] Probodobodyne RoveMate (roverBody_v2)
 ## Resources
-- [ ] Drill-O-Matic' Mining Excavator (RadialDrill) [drewcassidy] 
-- [ ] Drill-O-Matic Junior' Mining Excavator (MiniDrill) [drewcassidy] 
+- [x] Drill-O-Matic' Mining Excavator (RadialDrill) [drewcassidy] 
+- [x] Drill-O-Matic Junior' Mining Excavator (MiniDrill) [drewcassidy] 
 - [-] FTE-1 Drain Valve (ReleaseValve) [drewcassidy] 
 - [-] Convert-O-Tron 125 (MiniISRU) [drewcassidy] 
 - [-] Convert-O-Tron 250 (ISRU) [drewcassidy] 
-- [ ] Radial Holding Tank (RadialOreTank) [drewcassidy] 
-- [ ] Small Holding Tank (SmallTank) [drewcassidy] 
-- [ ] Large Holding Tank (LargeTank) [drewcassidy] 
+- [x] Radial Holding Tank (RadialOreTank) [drewcassidy] 
+- [x] Small Holding Tank (SmallTank) [drewcassidy] 
+- [x] Large Holding Tank (LargeTank) [drewcassidy] 
 - [-] Surface Scanning Module (SurfaceScanner) [drewcassidy] 
 - [-] M700 Survey Scanner (SurveyScanner) [drewcassidy] 
 - [-] M4435 Narrow-Band Scanner (OrbitalScanner) [drewcassidy] 
-- [ ] **[RS+]** restock-oretank-1875-1 [drewcassidy] 
-- [ ] **[RS+]** restock-oretank-375-1 [drewcassidy] 
+- [x] **[RS+]** restock-oretank-1875-1 [drewcassidy] 
+- [x] **[RS+]** restock-oretank-375-1 [drewcassidy] 
 ## Science
 - [x] Thermometer (sensorThermometer) [drewcassidy] 
 - [x] Barometer (sensorBarometer) [drewcassidy] 
@@ -406,8 +406,8 @@
 - [x] **[RS+]** restock-structural-tube-25-1
 - [x] **[RS+]** restock-structural-tube-375-1
 - [x] **[RS+]** restock-structural-tube-5-1
-- [k]  M-1x1 Structural Panel (structuralPanel1)
-- [k]  M-2x2 Structural Panel (structuralPanel2)
+- [ ]  M-1x1 Structural Panel (structuralPanel1)
+- [ ]  M-2x2 Structural Panel (structuralPanel2)
 - [x] **[RS+]** restock-adapter-hollow-25-375-1
 - [x] **[RS+]** restock-adapter-skeletal-25-375-1
 - [-] TT18-A Launch Stability Enhancer (launchClamp1) [drewcassidy] 
