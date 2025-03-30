@@ -74,7 +74,7 @@
 - [-] **[RS+]** restock-pod-sphere-1 [Well]
 - [-] **[RS+]** restock-pod-sphere-2 [Well]
 - [-] **[RS+]** restock-pod-sphere-3 [Well]
-- [-] **[RS+]** restock-mk2-pod [drewcassidy]
+- [ ] **[RS+]** restock-mk2-pod [drewcassidy]
 - [x] EAS-1 External Command Seat (seatExternalCmd) [Kavaeric]
 - [?] Mk3 Cockpit
 - [x] Mk2 Inline Cockpit
@@ -99,8 +99,8 @@
 - [x] **[RS+]** restock-antenna-stack-3 [drewcassidy]
 - [x] **[RS+]**  restock-relay-radial-2_v2 [drewcassidy]
 ## Compound
-- [-] FTX-2 External Fuel Duct (fuelLine) [drewcassidy]
-- [-] EAS-4 Strut Connector (strutConnector) [drewcassidy]
+- [ ] FTX-2 External Fuel Duct (fuelLine) [drewcassidy]
+- [ ] EAS-4 Strut Connector (strutConnector) [drewcassidy]
 ## Control
 - [x] Small Inline Reaction Wheel (sasModule) [drewcassidy]
 - [x] Advanced Inline Stabilizer (advSasModule)
@@ -144,11 +144,11 @@
 - [x] Mk2 Clamp-O-Tron (mk2DockingPort)
 - [-] Advanced Grabbing Unit (GrapplingDevice) [drewcassidy]
 - [-] Advanced Grabbing Unit Jr. (smallClaw) [drewcassidy]
-- [-] **[RS+]** restock-engineplate-125-1 [drewcassidy]
-- [-] **[RS+]** restock-engineplate-1875-1 [drewcassidy]
-- [-] **[RS+]** restock-engineplate-25-1 [drewcassidy]
-- [-] **[RS+]** restock-engineplate-375-1 [drewcassidy]
-- [-] **[RS+]** restock-engineplate-5-1 [drewcassidy]
+- [ ] **[RS+]** restock-engineplate-125-1 [drewcassidy]
+- [ ] **[RS+]** restock-engineplate-1875-1 [drewcassidy]
+- [ ] **[RS+]** restock-engineplate-25-1 [drewcassidy]
+- [ ] **[RS+]** restock-engineplate-375-1 [drewcassidy]
+- [ ] **[RS+]** restock-engineplate-5-1 [drewcassidy]
 - [-] **[RS+]** restock-airlock-1 [drewcassidy]
 ## Electrical
 - [x] Z-200 Rechargeable Battery Bank (batteryBankMini)
@@ -262,12 +262,12 @@
 - [x] Kerbodyne ADTP-2-3 (Size3to2Adapter_v2)
 - [x] **[RS+]** restock-fuel-tank-375-4
 - [x] **[RS+]** (restock-fueltank-sphere-375-1)
-- [ ] **[RS+]** restock-fueltank-5-1
-- [ ] **[RS+]** restock-fueltank-5-2
-- [ ] **[RS+]** restock-fueltank-5-3
-- [ ] **[RS+]** restock-fueltank-5-4
-- [ ] **[RS+]** restock-fueltank-adapter-375-5-1
-- [ ] **[RS+]** restock-fueltank-saturn-engine-1
+- [x] **[RS+]** restock-fueltank-5-1
+- [x] **[RS+]** restock-fueltank-5-2
+- [x] **[RS+]** restock-fueltank-5-3
+- [x] **[RS+]** restock-fueltank-5-4
+- [x] **[RS+]** restock-fueltank-adapter-375-5-1
+- [x] **[RS+]** restock-fueltank-saturn-engine-1
 - [x] FL-R10 RCS Fuel Tank (rcsTankMini)
 - [x] FL-R25 RCS Fuel Tank (RCSFuelTank)
 - [x] **[RS+]** restock-fuel-tank-rcs-1875-1
@@ -304,14 +304,14 @@
 - [x] Mk2 Monopropellant Tank
 - [?] Mk3 Monopropellant Tank
 ## Ground
-- [-] LT-05 Micro Landing Strut (miniLandingLeg) [drewcassidy]
-- [-] LT-1 Landing Strut (landingLeg1) [drewcassidy]
-- [-] LT-2 Landing Strut (landingLeg1-2) [drewcassidy]
-- [-] Rovemax Model S2 (roverWheel2) [drewcassidy]
-- [-] Rovemax Model M1 (roverWHeel1) [drewcassidy]
-- [-] TR-2L Ruggedized Wheel (wheelMed) [drewcassidy]
-- [-] **[RS+]** restock-wheel-1-T [drewcassidy]
-- [-] **[RS+]** restock-wheel-4 [drewcassidy] 
+- [ ] LT-05 Micro Landing Strut (miniLandingLeg) [drewcassidy]
+- [ ] LT-1 Landing Strut (landingLeg1) [drewcassidy]
+- [ ] LT-2 Landing Strut (landingLeg1-2) [drewcassidy]
+- [ ] Rovemax Model S2 (roverWheel2) [drewcassidy]
+- [ ] Rovemax Model M1 (roverWHeel1) [drewcassidy]
+- [ ] TR-2L Ruggedized Wheel (wheelMed) [drewcassidy]
+- [ ] **[RS+]** restock-wheel-1-T [drewcassidy]
+- [ ] **[RS+]** restock-wheel-4 [drewcassidy] 
 - [x] LY-01 Fixed Landing Gear
 - [x] LY-05 Steerable Landing Gear
 - [x] LY-10 Small Landing Gear
@@ -411,7 +411,7 @@
 - [ ]  M-2x2 Structural Panel (structuralPanel2)
 - [x] **[RS+]** restock-adapter-hollow-25-375-1
 - [x] **[RS+]** restock-adapter-skeletal-25-375-1
-- [-] TT18-A Launch Stability Enhancer (launchClamp1) [drewcassidy] 
+- [ ] TT18-A Launch Stability Enhancer (launchClamp1) [drewcassidy] 
 - [-] TVR-200 Stack Bi-Coupler (stackBiCoupler_v2) [drewcassidy] 
 - [-] TVR-1180C Mk1 Stack Tri-Coupler (stackTriCoupler_v2) [drewcassidy] 
 - [-] TVR-2160C Mk2 Stack Quad-Coupler (stackQuadCoupler) [drewcassidy] 
