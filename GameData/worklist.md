@@ -324,6 +324,7 @@
 - [x] **[RS+]** restock-fairing-base-1875-1
 - [x] AE-FF2 Airstream Protective Shell (2.5m) (fairingSize2)
 - [x] AE-FF3 Airstream Protective Shell  (3.75m) (fairingSize3)
+- [x] **[RS+]** restock-fairing-base-5-1
 - [x] Service Bay (1.25m) (ServiceBay_125_v2)
 - [x] **[RS+]** restock-service-bay-1875-1
 - [x] Service Bay (2.5m) (ServiceBay_250_v2)
@@ -373,7 +374,7 @@
 - [x] Negative Gravioli Detector (sensorGravimeter) [drewcassidy] 
 - [x] Mystery Goo™ Containment Unit (GooExperiment) [drewcassidy] 
 - [x] SC-9001 Science Jr. (science_module) [drewcassidy] 
-- [-] Magnetometer
+- [-] Magnetometer [drewcassidy] 
 - [x] Atmospheric Fluid Spectro-Variometer (sensorAtmosphere) [drewcassidy] 
 - [x] Experiment Storage Unit (ScienceBox) [drewcassidy] 
 - [-] SENTINEL Infrared Telescope (InfraredTelescope) [drewcassidy] 
