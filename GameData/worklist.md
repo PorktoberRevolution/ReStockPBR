@@ -44,14 +44,14 @@
 - [x] Structural Wing Type D
 - [x] Swept Wing Type A
 - [x] Swept Wing Type B
-- [ ] Swept Wings
-- [ ] Advanced Canard
-- [ ] Standard Canard
+- [x] Swept Wings
+- [x] Advanced Canard
+- [x] Standard Canard
 - [?] FAT-455 Aeroplane Main Wing
 - [?] Big-S Wing Strake
 - [?] Big-S Delta Wing
 - [?] FAT-455 Aeroplane Tail Fin
-- [ ] Tail Fin
+- [x] Tail Fin
 - [?] FAT-455 Aeroplane Tail Fin
 - [?] Big-S Spaceplane Tail Fin
 - [x] Elevon 1
