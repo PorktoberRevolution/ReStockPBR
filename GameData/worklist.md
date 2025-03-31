@@ -30,32 +30,35 @@
 - [+] **[RS+]** restock-intake-mk2-ram-1
 - [x] Tail Connector A
 - [x] Tail Connector B
-- [ ] Wing Connector Type A
-- [ ] Wing Connector Type B
-- [ ] Wing Connector Type C
-- [ ] Wing Connector Type D
-- [ ] Wing Connector Type E
-- [ ] Delta Wing
-- [ ] Small Delta Wing
-- [ ] Wing Strake
-- [ ] Structural Wing Type A
-- [ ] Structural Wing Type B
-- [ ] Structural Wing Type C
-- [ ] Structural Wing Type D
-- [ ] Swept Wing Type A
-- [ ] Swept Wing Type B
-- [ ] Swept Wings
+- [x] Wing Connector Type A
+- [x] Wing Connector Type B
+- [x] Wing Connector Type C
+- [x] Wing Connector Type D
+- [x] Wing Connector Type E
+- [x] Delta Wing
+- [x] Small Delta Wing
+- [x] Wing Strake
+- [x] Structural Wing Type A
+- [x] Structural Wing Type B
+- [x] Structural Wing Type C
+- [x] Structural Wing Type D
+- [x] Swept Wing Type A
+- [x] Swept Wing Type B
+- [x] Swept Wings
+- [x] Advanced Canard
+- [x] Standard Canard
 - [?] FAT-455 Aeroplane Main Wing
 - [?] Big-S Wing Strake
 - [?] Big-S Delta Wing
 - [?] FAT-455 Aeroplane Tail Fin
-- [?] Tail Fin
+- [x] Tail Fin
 - [?] FAT-455 Aeroplane Tail Fin
 - [?] Big-S Spaceplane Tail Fin
-- [ ] Elevon 1
-- [ ] Elevon 2
-- [ ] Elevon 3
-- [ ] Elevon 4
+- [x] Elevon 1
+- [x] Elevon 2
+- [x] Elevon 3
+- [x] Elevon 4
+- [x] Elevon 5
 - [?] Big-S Elevon 1
 - [?] Big-S Elevon 2
 - [?] FAT-455 Aeroplane Control Surface
@@ -71,7 +74,7 @@
 - [-] **[RS+]** restock-pod-sphere-1 [Well]
 - [-] **[RS+]** restock-pod-sphere-2 [Well]
 - [-] **[RS+]** restock-pod-sphere-3 [Well]
-- [-] **[RS+]** restock-mk2-pod [drewcassidy]
+- [ ] **[RS+]** restock-mk2-pod [drewcassidy]
 - [x] EAS-1 External Command Seat (seatExternalCmd) [Kavaeric]
 - [?] Mk3 Cockpit
 - [x] Mk2 Inline Cockpit
@@ -96,8 +99,8 @@
 - [x] **[RS+]** restock-antenna-stack-3 [drewcassidy]
 - [x] **[RS+]**  restock-relay-radial-2_v2 [drewcassidy]
 ## Compound
-- [-] FTX-2 External Fuel Duct (fuelLine) [drewcassidy]
-- [-] EAS-4 Strut Connector (strutConnector) [drewcassidy]
+- [ ] FTX-2 External Fuel Duct (fuelLine) [drewcassidy]
+- [ ] EAS-4 Strut Connector (strutConnector) [drewcassidy]
 ## Control
 - [x] Small Inline Reaction Wheel (sasModule) [drewcassidy]
 - [x] Advanced Inline Stabilizer (advSasModule)
@@ -141,11 +144,11 @@
 - [x] Mk2 Clamp-O-Tron (mk2DockingPort)
 - [-] Advanced Grabbing Unit (GrapplingDevice) [drewcassidy]
 - [-] Advanced Grabbing Unit Jr. (smallClaw) [drewcassidy]
-- [-] **[RS+]** restock-engineplate-125-1 [drewcassidy]
-- [-] **[RS+]** restock-engineplate-1875-1 [drewcassidy]
-- [-] **[RS+]** restock-engineplate-25-1 [drewcassidy]
-- [-] **[RS+]** restock-engineplate-375-1 [drewcassidy]
-- [-] **[RS+]** restock-engineplate-5-1 [drewcassidy]
+- [ ] **[RS+]** restock-engineplate-125-1 [drewcassidy]
+- [ ] **[RS+]** restock-engineplate-1875-1 [drewcassidy]
+- [ ] **[RS+]** restock-engineplate-25-1 [drewcassidy]
+- [ ] **[RS+]** restock-engineplate-375-1 [drewcassidy]
+- [ ] **[RS+]** restock-engineplate-5-1 [drewcassidy]
 - [-] **[RS+]** restock-airlock-1 [drewcassidy]
 ## Electrical
 - [x] Z-200 Rechargeable Battery Bank (batteryBankMini)
@@ -192,12 +195,12 @@
 - [x] BACC "Thumper" Solid Fuel Booster (solidBooster1-1)
 - [x] RT-10 "Hammer" Solid Fuel Booster (solidBooster_v2)
 - [x] RT-5 "Flea" Solid Fuel Booster (solidBooster_sm_v2)
-- [ ] J-20 "Juno" Basic Jet Engine
+- [x] J-20 "Juno" Basic Jet Engine
 - [x] CR-7 R.A.P.I.E.R. Engine (RAPIER)
-- [ ] J-33 "Wheesley" Turbofan Engine
+- [x] J-33 "Wheesley" Turbofan Engine
 - [ ] J-404 "Panther" Afterburning Turbofan	
 - [ ] J-X4 "Whiplash" Turbo Ramjet Engine
-- [ ] J-90 "Goliath" Turbofan Engine
+- [x] J-90 "Goliath" Turbofan Engine
 - [x] **[RS+]** restock-engine-caravel-1
 - [x] **[RS+]** restock-engine-galleon-1
 - [x] **[RS+]** restock-engine-schnauzer-1
@@ -259,12 +262,12 @@
 - [x] Kerbodyne ADTP-2-3 (Size3to2Adapter_v2)
 - [x] **[RS+]** restock-fuel-tank-375-4
 - [x] **[RS+]** (restock-fueltank-sphere-375-1)
-- [ ] **[RS+]** restock-fueltank-5-1
-- [ ] **[RS+]** restock-fueltank-5-2
-- [ ] **[RS+]** restock-fueltank-5-3
-- [ ] **[RS+]** restock-fueltank-5-4
-- [ ] **[RS+]** restock-fueltank-adapter-375-5-1
-- [ ] **[RS+]** restock-fueltank-saturn-engine-1
+- [x] **[RS+]** restock-fueltank-5-1
+- [x] **[RS+]** restock-fueltank-5-2
+- [x] **[RS+]** restock-fueltank-5-3
+- [x] **[RS+]** restock-fueltank-5-4
+- [x] **[RS+]** restock-fueltank-adapter-375-5-1
+- [x] **[RS+]** restock-fueltank-saturn-engine-1
 - [x] FL-R10 RCS Fuel Tank (rcsTankMini)
 - [x] FL-R25 RCS Fuel Tank (RCSFuelTank)
 - [x] **[RS+]** restock-fuel-tank-rcs-1875-1
@@ -301,26 +304,27 @@
 - [x] Mk2 Monopropellant Tank
 - [?] Mk3 Monopropellant Tank
 ## Ground
-- [-] LT-05 Micro Landing Strut (miniLandingLeg) [drewcassidy]
-- [-] LT-1 Landing Strut (landingLeg1) [drewcassidy]
-- [-] LT-2 Landing Strut (landingLeg1-2) [drewcassidy]
-- [-] Rovemax Model S2 (roverWheel2) [drewcassidy]
-- [-] Rovemax Model M1 (roverWHeel1) [drewcassidy]
-- [-] TR-2L Ruggedized Wheel (wheelMed) [drewcassidy]
-- [-] **[RS+]** restock-wheel-1-T [drewcassidy]
-- [-] **[RS+]** restock-wheel-4 [drewcassidy] 
-- [ ] LY-01 Fixed Landing Gear
-- [ ] LY-05 Steerable Landing Gear
-- [ ] LY-10 Small Landing Gear
-- [ ] LY-35 Medium Landing Gear
-- [ ] LY-60 Large Landing Gear
-- [ ] LY-60 Large Landing Gear
+- [ ] LT-05 Micro Landing Strut (miniLandingLeg) [drewcassidy]
+- [ ] LT-1 Landing Strut (landingLeg1) [drewcassidy]
+- [ ] LT-2 Landing Strut (landingLeg1-2) [drewcassidy]
+- [ ] Rovemax Model S2 (roverWheel2) [drewcassidy]
+- [ ] Rovemax Model M1 (roverWHeel1) [drewcassidy]
+- [ ] TR-2L Ruggedized Wheel (wheelMed) [drewcassidy]
+- [ ] **[RS+]** restock-wheel-1-T [drewcassidy]
+- [ ] **[RS+]** restock-wheel-4 [drewcassidy] 
+- [x] LY-01 Fixed Landing Gear
+- [x] LY-05 Steerable Landing Gear
+- [x] LY-10 Small Landing Gear
+- [x] LY-35 Medium Landing Gear
+- [x] LY-60 Large Landing Gear
+- [x] LY-60 Large Landing Gear
 ## Payload
 - [x] **[RS+]** restock-fairing-base-0625-1
 - [x] AE-FF1 Airstream Protective Shell (1.25m) (fairingSize1)
 - [x] **[RS+]** restock-fairing-base-1875-1
 - [x] AE-FF2 Airstream Protective Shell (2.5m) (fairingSize2)
 - [x] AE-FF3 Airstream Protective Shell  (3.75m) (fairingSize3)
+- [x] **[RS+]** restock-fairing-base-5-1
 - [x] Service Bay (1.25m) (ServiceBay_125_v2)
 - [x] **[RS+]** restock-service-bay-1875-1
 - [x] Service Bay (2.5m) (ServiceBay_250_v2)
@@ -350,19 +354,19 @@
 - [x] Probodobodyne HECS2 (HECS2_ProbeCore)
 - [x] Probodobodyne RoveMate (roverBody_v2)
 ## Resources
-- [ ] Drill-O-Matic' Mining Excavator (RadialDrill) [drewcassidy] 
-- [ ] Drill-O-Matic Junior' Mining Excavator (MiniDrill) [drewcassidy] 
+- [x] Drill-O-Matic' Mining Excavator (RadialDrill) [drewcassidy] 
+- [x] Drill-O-Matic Junior' Mining Excavator (MiniDrill) [drewcassidy] 
 - [-] FTE-1 Drain Valve (ReleaseValve) [drewcassidy] 
 - [-] Convert-O-Tron 125 (MiniISRU) [drewcassidy] 
 - [-] Convert-O-Tron 250 (ISRU) [drewcassidy] 
-- [ ] Radial Holding Tank (RadialOreTank) [drewcassidy] 
-- [ ] Small Holding Tank (SmallTank) [drewcassidy] 
-- [ ] Large Holding Tank (LargeTank) [drewcassidy] 
+- [x] Radial Holding Tank (RadialOreTank) [drewcassidy] 
+- [x] Small Holding Tank (SmallTank) [drewcassidy] 
+- [x] Large Holding Tank (LargeTank) [drewcassidy] 
 - [-] Surface Scanning Module (SurfaceScanner) [drewcassidy] 
 - [-] M700 Survey Scanner (SurveyScanner) [drewcassidy] 
 - [-] M4435 Narrow-Band Scanner (OrbitalScanner) [drewcassidy] 
-- [ ] **[RS+]** restock-oretank-1875-1 [drewcassidy] 
-- [ ] **[RS+]** restock-oretank-375-1 [drewcassidy] 
+- [x] **[RS+]** restock-oretank-1875-1 [drewcassidy] 
+- [x] **[RS+]** restock-oretank-375-1 [drewcassidy] 
 ## Science
 - [x] Thermometer (sensorThermometer) [drewcassidy] 
 - [x] Barometer (sensorBarometer) [drewcassidy] 
@@ -370,7 +374,7 @@
 - [x] Negative Gravioli Detector (sensorGravimeter) [drewcassidy] 
 - [x] Mystery Goo™ Containment Unit (GooExperiment) [drewcassidy] 
 - [x] SC-9001 Science Jr. (science_module) [drewcassidy] 
-- [-] Magnetometer
+- [-] Magnetometer [drewcassidy] 
 - [x] Atmospheric Fluid Spectro-Variometer (sensorAtmosphere) [drewcassidy] 
 - [x] Experiment Storage Unit (ScienceBox) [drewcassidy] 
 - [-] SENTINEL Infrared Telescope (InfraredTelescope) [drewcassidy] 
@@ -403,11 +407,11 @@
 - [x] **[RS+]** restock-structural-tube-25-1
 - [x] **[RS+]** restock-structural-tube-375-1
 - [x] **[RS+]** restock-structural-tube-5-1
-- [k]  M-1x1 Structural Panel (structuralPanel1)
-- [k]  M-2x2 Structural Panel (structuralPanel2)
+- [ ]  M-1x1 Structural Panel (structuralPanel1)
+- [ ]  M-2x2 Structural Panel (structuralPanel2)
 - [x] **[RS+]** restock-adapter-hollow-25-375-1
 - [x] **[RS+]** restock-adapter-skeletal-25-375-1
-- [-] TT18-A Launch Stability Enhancer (launchClamp1) [drewcassidy] 
+- [ ] TT18-A Launch Stability Enhancer (launchClamp1) [drewcassidy] 
 - [-] TVR-200 Stack Bi-Coupler (stackBiCoupler_v2) [drewcassidy] 
 - [-] TVR-1180C Mk1 Stack Tri-Coupler (stackTriCoupler_v2) [drewcassidy] 
 - [-] TVR-2160C Mk2 Stack Quad-Coupler (stackQuadCoupler) [drewcassidy] 
