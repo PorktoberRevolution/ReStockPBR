@@ -13,8 +13,8 @@
 - [x] Protective Rocket Nose Cone Mk12A (rocketNoseConeSize3)
 - [x] restock-nosecone-375-1
 - [x] **[RS+]** restock-nosecone-5-1
-- [+] **[RS+]** restock-nosecone-mk2-1
-- [+] **[RS+]** restock-nosecone-mk2-2
+- [ ] **[RS+]** restock-nosecone-mk2-1
+- [ ] **[RS+]** restock-nosecone-mk2-2
 - [x] Small Circular Intake
 - [x] Circular Intake
 - [x] Adjustable Ramp Intake
@@ -24,10 +24,10 @@
 - [x] Engine Pre-cooler
 - [x] XM-G50 Radial Air Intake
 - [x] Adjustable Ramp Intake (Radial)
-- [+] **[RS+]** restock-fuselage-mk2-precooler-1
-- [+] **[RS+]** restock-intake-mk2-shock-1
-- [+] **[RS+]** restock-intake-mk2-adapter-1
-- [+] **[RS+]** restock-intake-mk2-ram-1
+- [ ] **[RS+]** restock-fuselage-mk2-precooler-1
+- [ ] **[RS+]** restock-intake-mk2-shock-1
+- [ ] **[RS+]** restock-intake-mk2-adapter-1
+- [ ] **[RS+]** restock-intake-mk2-ram-1
 - [x] Tail Connector A
 - [x] Tail Connector B
 - [x] Wing Connector Type A
@@ -99,8 +99,8 @@
 - [x] **[RS+]** restock-antenna-stack-3 [drewcassidy]
 - [x] **[RS+]**  restock-relay-radial-2_v2 [drewcassidy]
 ## Compound
-- [ ] FTX-2 External Fuel Duct (fuelLine) [drewcassidy]
-- [ ] EAS-4 Strut Connector (strutConnector) [drewcassidy]
+- [x] FTX-2 External Fuel Duct (fuelLine) [drewcassidy]
+- [x] EAS-4 Strut Connector (strutConnector) [drewcassidy]
 ## Control
 - [x] Small Inline Reaction Wheel (sasModule) [drewcassidy]
 - [x] Advanced Inline Stabilizer (advSasModule)
@@ -198,8 +198,8 @@
 - [x] J-20 "Juno" Basic Jet Engine
 - [x] CR-7 R.A.P.I.E.R. Engine (RAPIER)
 - [x] J-33 "Wheesley" Turbofan Engine
-- [ ] J-404 "Panther" Afterburning Turbofan	
-- [ ] J-X4 "Whiplash" Turbo Ramjet Engine
+- [x] J-404 "Panther" Afterburning Turbofan	
+- [x] J-X4 "Whiplash" Turbo Ramjet Engine
 - [x] J-90 "Goliath" Turbofan Engine
 - [x] **[RS+]** restock-engine-caravel-1
 - [x] **[RS+]** restock-engine-galleon-1
@@ -304,14 +304,14 @@
 - [x] Mk2 Monopropellant Tank
 - [?] Mk3 Monopropellant Tank
 ## Ground
-- [ ] LT-05 Micro Landing Strut (miniLandingLeg) [drewcassidy]
-- [ ] LT-1 Landing Strut (landingLeg1) [drewcassidy]
-- [ ] LT-2 Landing Strut (landingLeg1-2) [drewcassidy]
-- [ ] Rovemax Model S2 (roverWheel2) [drewcassidy]
-- [ ] Rovemax Model M1 (roverWHeel1) [drewcassidy]
-- [ ] TR-2L Ruggedized Wheel (wheelMed) [drewcassidy]
-- [ ] **[RS+]** restock-wheel-1-T [drewcassidy]
-- [ ] **[RS+]** restock-wheel-4 [drewcassidy] 
+- [x] LT-05 Micro Landing Strut (miniLandingLeg) [drewcassidy]
+- [x] LT-1 Landing Strut (landingLeg1) [drewcassidy]
+- [x] LT-2 Landing Strut (landingLeg1-2) [drewcassidy]
+- [x] Rovemax Model S2 (roverWheel2) [drewcassidy]
+- [x] Rovemax Model M1 (roverWHeel1) [drewcassidy]
+- [x] TR-2L Ruggedized Wheel (wheelMed) [drewcassidy]
+- [x] **[RS+]** restock-wheel-1-T [drewcassidy]
+- [x] **[RS+]** restock-wheel-4 [drewcassidy] 
 - [x] LY-01 Fixed Landing Gear
 - [x] LY-05 Steerable Landing Gear
 - [x] LY-10 Small Landing Gear
@@ -407,21 +407,33 @@
 - [x] **[RS+]** restock-structural-tube-25-1
 - [x] **[RS+]** restock-structural-tube-375-1
 - [x] **[RS+]** restock-structural-tube-5-1
-- [ ]  M-1x1 Structural Panel (structuralPanel1)
-- [ ]  M-2x2 Structural Panel (structuralPanel2)
+- [k]  M-1x1 Structural Panel (structuralPanel1)
+- [k]  M-2x2 Structural Panel (structuralPanel2)
+- [k]  SP-R06 Structural Panel
+- [k]  SP-R12 Structural Panel
+- [k]  SP-R18 Structural Panel
+- [k]  SP-R25 Structural Panel
+- [k]  SP-S06 Structural Panel
+- [k]  SP-S12 Structural Panel
+- [k]  SP-S18 Structural Panel
+- [k]  SP-S25 Structural Panel
+- [k]  SP-T06 Structural Panel
+- [k]  SP-T12 Structural Panel
+- [k]  SP-T18 Structural Panel
+- [k]  SP-T25 Structural Panel
 - [x] **[RS+]** restock-adapter-hollow-25-375-1
 - [x] **[RS+]** restock-adapter-skeletal-25-375-1
-- [ ] TT18-A Launch Stability Enhancer (launchClamp1) [drewcassidy] 
-- [-] TVR-200 Stack Bi-Coupler (stackBiCoupler_v2) [drewcassidy] 
-- [-] TVR-1180C Mk1 Stack Tri-Coupler (stackTriCoupler_v2) [drewcassidy] 
-- [-] TVR-2160C Mk2 Stack Quad-Coupler (stackQuadCoupler) [drewcassidy] 
-- [-] TVR-200L Stack Bi-Adapter (adapterLargeSmallBi) [drewcassidy] 
-- [-] TVR-300L Stack Tri-Adapter (adapterLargeSmallTri) [drewcassidy] 
-- [-] TVR-400L Stack Quad-Adapter (adapterLargeSmallQuad) [drewcassidy] 
-- [-] **[RS+]** restock-node-625-1 [drewcassidy] 
-- [-] **[RS+]** restock-node-1875-1 [drewcassidy] 
-- [ ] Small Hardpoint
-- [ ] Structural Pylon
+- [-] TT18-A Launch Stability Enhancer (launchClamp1) [drewcassidy] 
+- [ ] TVR-200 Stack Bi-Coupler (stackBiCoupler_v2) [drewcassidy] 
+- [ ] TVR-1180C Mk1 Stack Tri-Coupler (stackTriCoupler_v2) [drewcassidy] 
+- [ ] TVR-2160C Mk2 Stack Quad-Coupler (stackQuadCoupler) [drewcassidy] 
+- [ ] TVR-200L Stack Bi-Adapter (adapterLargeSmallBi) [drewcassidy] 
+- [ ] TVR-300L Stack Tri-Adapter (adapterLargeSmallTri) [drewcassidy] 
+- [ ] TVR-400L Stack Quad-Adapter (adapterLargeSmallQuad) [drewcassidy] 
+- [ ] **[RS+]** restock-node-625-1 [drewcassidy] 
+- [ ] **[RS+]** restock-node-1875-1 [drewcassidy] 
+- [?] Small Hardpoint
+- [?] Structural Pylon
 - [x] Mk1 Hollow Fuselage
 - [x] Mk1 Structural Fuselage
 - [?] Mk3 Engine Mount
