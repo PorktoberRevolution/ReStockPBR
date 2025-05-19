@@ -256,6 +256,8 @@
 - [x] (Rockomax16_BW)
 - [x] (Rockomax8_BW)
 - [x] **[RS+]** (restock-fueltank-sphere-25-1)
+- [ ] C7 Brand Adapter
+- [ ] C7 Brand Adapter Sloped
 - [x] Kerbodyne S3-3600 Tank (Size3SmallTank)
 - [x] Kerbodyne S3-7200 Tank (Size3MediumTank)
 - [x] Kerbodyne S3-14400 Tank (Size3LargeTank)
@@ -304,6 +306,7 @@
 - [?] Mk3 Liquid Fuel Fuselage Long
 - [x] Mk2 Monopropellant Tank
 - [?] Mk3 Monopropellant Tank
+- [ ] Fuel Drain Vent
 ## Ground
 - [x] LT-05 Micro Landing Strut (miniLandingLeg) [drewcassidy]
 - [x] LT-1 Landing Strut (landingLeg1) [drewcassidy]
@@ -354,6 +357,8 @@
 - [x] Probodobodyne OKTO2 (probeCoreOcto2_v2)
 - [x] Probodobodyne HECS2 (HECS2_ProbeCore)
 - [x] Probodobodyne RoveMate (roverBody_v2)
+- [ ] MPO Probe
+- [ ] MTM Stage
 ## Resources
 - [x] Drill-O-Matic' Mining Excavator (RadialDrill) [drewcassidy] 
 - [x] Drill-O-Matic Junior' Mining Excavator (MiniDrill) [drewcassidy] 
