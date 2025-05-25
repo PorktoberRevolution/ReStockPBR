@@ -51,7 +51,7 @@
 - [ ] FAT-455 Aeroplane Main Wing
 - [ ] Big-S Wing Strake
 - [ ] Big-S Delta Wing
-- [?] FAT-455 Aeroplane Tail Fin
+- [ ] FAT-455 Aeroplane Tail Fin
 - [x] Tail Fin
 - [ ] FAT-455 Aeroplane Tail Fin
 - [ ] Big-S Spaceplane Tail Fin
