@@ -1,3 +1,4 @@
+# Current parts list
 ## Aero
 - [x] Basic Fin (basicFin)
 - [x] AV-R8 Winglet (R8winglet)
@@ -47,22 +48,22 @@
 - [x] Swept Wings
 - [x] Advanced Canard
 - [x] Standard Canard
-- [?] FAT-455 Aeroplane Main Wing
-- [?] Big-S Wing Strake
-- [?] Big-S Delta Wing
+- [ ] FAT-455 Aeroplane Main Wing
+- [ ] Big-S Wing Strake
+- [ ] Big-S Delta Wing
 - [?] FAT-455 Aeroplane Tail Fin
 - [x] Tail Fin
-- [?] FAT-455 Aeroplane Tail Fin
-- [?] Big-S Spaceplane Tail Fin
+- [ ] FAT-455 Aeroplane Tail Fin
+- [ ] Big-S Spaceplane Tail Fin
 - [x] Elevon 1
 - [x] Elevon 2
 - [x] Elevon 3
 - [x] Elevon 4
 - [x] Elevon 5
-- [?] Big-S Elevon 1
-- [?] Big-S Elevon 2
-- [?] FAT-455 Aeroplane Control Surface
-- [?] A.I.R.B.R.A.K.E.S
+- [ ] Big-S Elevon 1
+- [ ] Big-S Elevon 2
+- [ ] FAT-455 Aeroplane Control Surface
+- [ ] A.I.R.B.R.A.K.E.S
 ## Command
 - [x] Mk1 Command Pod (mk1pod_v2)
 - [x] Mk1 Lander Can (landerCabinSmall)
@@ -71,18 +72,18 @@
 - [x] Mk2 Lander Can (mk2LanderCabin_v2)
 - [x] Science Mobile Processing Lab MPL-LG-2 (Large_Crewed_Lab)
 - [x] PPD-10 Hitchhiker Storage Container (crewCabin)
-- [-] **[RS+]** restock-pod-sphere-1 [Well]
-- [-] **[RS+]** restock-pod-sphere-2 [Well]
-- [-] **[RS+]** restock-pod-sphere-3 [Well]
+- **[RS+]** restock-pod-sphere-1 [Well] **(NOT IN SCOPE)**
+- **[RS+]** restock-pod-sphere-2 [Well] **(NOT IN SCOPE)**
+- **[RS+]** restock-pod-sphere-3 [Well] **(NOT IN SCOPE)**
 - [ ] **[RS+]** restock-mk2-pod [drewcassidy]
 - [x] EAS-1 External Command Seat (seatExternalCmd) [Kavaeric]
-- [?] Mk3 Cockpit
+- [ ] Mk3 Cockpit
 - [x] Mk2 Inline Cockpit
 - [x] Mk2 Cockpit
 - [x] Mk1 Inline Cockpit
 - [x] Mk1 Cockpit
 - [x] Mk1 Crew Cabin
-- [?] Mk3 Passenger Module
+- [ ] Mk3 Passenger Module
 - [x] MK2 Crew Cabin
 ## Communication
 - [x] Communotron 16 (longAntenna) [drewcassidy]
@@ -106,7 +107,6 @@
 - [x] Advanced Inline Stabilizer (advSasModule)
 - [x] **[RS+]** restock-reactionwheel-1875-1
 - [x] Advanced Reaction Wheel Module, Large (asasmodule1-2)
-- [+] **[RS+]** restock-reactionwheel-mk2-1
 - [x] RV-105 RCS Thruster Block (RCSBlock_v2)
 - [x] RV-1X RCS Thruster Block (RCSblock_01_small)
 - [x] Place-Anywhere 7 Linear RCS Port (linearRcs)
@@ -142,14 +142,14 @@
 - [x] Clamp-O-Tron Shielded Docking Port (dockingPort1)
 - [x] Inline Clamp-O-Tron (dockingPortLateral)
 - [x] Mk2 Clamp-O-Tron (mk2DockingPort)
-- [-] Advanced Grabbing Unit (GrapplingDevice) [drewcassidy]
-- [-] Advanced Grabbing Unit Jr. (smallClaw) [drewcassidy]
+- [ ] Advanced Grabbing Unit (GrapplingDevice) [drewcassidy]
+- [ ] Advanced Grabbing Unit Jr. (smallClaw) [drewcassidy]
 - [x] **[RS+]** restock-engineplate-125-1 [drewcassidy]
 - [x] **[RS+]** restock-engineplate-1875-1 [drewcassidy]
 - [x] **[RS+]** restock-engineplate-25-1 [drewcassidy]
 - [x] **[RS+]** restock-engineplate-375-1 [drewcassidy]
 - [x] **[RS+]** restock-engineplate-5-1 [drewcassidy]
-- [-] **[RS+]** restock-airlock-1 [drewcassidy]
+- **[RS+]** restock-airlock-1 [drewcassidy]  **(NOT IN SCOPE)**
 ## Electrical
 - [x] Z-200 Rechargeable Battery Bank (batteryBankMini)
 - [x] Z-1K Rechargeable Battery Bank (batteryBank)
@@ -222,8 +222,8 @@
 - [x] T-1 Toroidal Aerospike "Dart" Liquid Fuel Engine (toroidalAerospike) [Kavaeric]
 - [x] **[MH]** LV-T91 "Cheetah" Liquid Fuel Engine (LiquidEngineLV-T91) [Kavaeric]
 - [x] **[MH]** LV-TX87 "Bobcat" Liquid Fuel Engine (LiquidEngineLV-TX87) [Kavaeric]
-- [-] Launch Escape System (LaunchEscapeSystem) [drewcassidy]
-- [-] Mini Launch Escape System () [drewcassidy]
+- [ ] Launch Escape System (LaunchEscapeSystem) [drewcassidy]
+- [ ] Mini Launch Escape System () [drewcassidy]
 ## Fuel
 - [x] Oscar-B Fuel Tank (miniFuelTank)
 - [x] **[RS+]** (restock-fuel-tank-0625-1)
@@ -292,20 +292,20 @@
 - [x] Mk2 to 1.25m Adapter
 - [x] Mk2 to 1.25m Adapter Long
 - [x] **[RS+]** restock-fuselage-mk2-125-1
-- [?] 2.5m to Mk2 Adapter
-- [?] Mk3 to Mk2 Adapter
-- [?] Mk3 to 2.5m Adapter
-- [?] Mk3 to 2.5m Adapter Slanted
-- [?] Mk3 to 3.75m Adapter
+- [ ] 2.5m to Mk2 Adapter
+- [ ] Mk3 to Mk2 Adapter
+- [ ] Mk3 to 2.5m Adapter
+- [ ] Mk3 to 2.5m Adapter Slanted
+- [ ] Mk3 to 3.75m Adapter
 - [x] Mk2 Bicoupler
-- [?] Mk3 Rocket Fuel Fuselage Short
-- [?] Mk3 Rocket Fuel Fuselage
-- [?] Mk3 Rocket Fuel Fuselage Long
-- [?] Mk3 Liquid Fuel Fuselage Short
-- [?] Mk3 Liquid Fuel Fuselage
-- [?] Mk3 Liquid Fuel Fuselage Long
+- [ ] Mk3 Rocket Fuel Fuselage Short
+- [ ] Mk3 Rocket Fuel Fuselage
+- [ ] Mk3 Rocket Fuel Fuselage Long
+- [ ] Mk3 Liquid Fuel Fuselage Short
+- [ ] Mk3 Liquid Fuel Fuselage
+- [ ] Mk3 Liquid Fuel Fuselage Long
 - [x] Mk2 Monopropellant Tank
-- [?] Mk3 Monopropellant Tank
+- [ ] Mk3 Monopropellant Tank
 - [ ] Fuel Drain Vent
 ## Ground
 - [x] LT-05 Micro Landing Strut (miniLandingLeg) [drewcassidy]
@@ -336,14 +336,14 @@
 - [x] SEQ-3C Conformal Storage Unit (ConformalStorageUnit) [Kavaeric]
 - [x] SEQ-9 Container Module (1.25m) (cargoContainer) [Kavaeric]
 - [x] SEQ-24 Cargo Storage Unit (2.5m) (CargoStorageUnit) [Kavaeric]
-- [w] **[RS+]** restock-service-module-125-625-1 [Well]
-- [w] **[RS+]** restock-service-module-1875-1 [Well]
+- **[RS+]** restock-service-module-125-625-1 [Well]  **(NOT IN SCOPE)**
+- **[RS+]** restock-service-module-1875-1 [Well]  **(NOT IN SCOPE)**
 - [x] Mk2 Cargo Bay CRG-04
 - [x] Mk2 Cargo Bay CRG-08
-- [?] Mk3 Cargo Bay CRG-25
-- [?] Mk3 Cargo Bay CRG-50
-- [?] Mk3 Cargo Bay CRG-105
-- [?] Mk3 Cargo Ramp
+- [ ] Mk3 Cargo Bay CRG-25
+- [ ] Mk3 Cargo Bay CRG-50
+- [ ] Mk3 Cargo Bay CRG-105
+- [ ] Mk3 Cargo Ramp
 ## Probes
 - [x] **[RS+]** restock-drone-core-0625-1
 - [x] RC-001S Remote Guidance Unit (probeStackSmall)
@@ -357,20 +357,20 @@
 - [x] Probodobodyne OKTO2 (probeCoreOcto2_v2)
 - [x] Probodobodyne HECS2 (HECS2_ProbeCore)
 - [x] Probodobodyne RoveMate (roverBody_v2)
-- [ ] MPO Probe
-- [ ] MTM Stage
+- MPO Probe  **(NOT IN SCOPE)**
+- MTM Stage  **(NOT IN SCOPE)**
 ## Resources
 - [x] Drill-O-Matic' Mining Excavator (RadialDrill) [drewcassidy] 
 - [x] Drill-O-Matic Junior' Mining Excavator (MiniDrill) [drewcassidy] 
-- [-] FTE-1 Drain Valve (ReleaseValve) [drewcassidy] 
-- [-] Convert-O-Tron 125 (MiniISRU) [drewcassidy] 
-- [-] Convert-O-Tron 250 (ISRU) [drewcassidy] 
+- [ ] FTE-1 Drain Valve (ReleaseValve) [drewcassidy] 
+- [ ] Convert-O-Tron 125 (MiniISRU) [drewcassidy] 
+- [ ] Convert-O-Tron 250 (ISRU) [drewcassidy] 
 - [x] Radial Holding Tank (RadialOreTank) [drewcassidy] 
 - [x] Small Holding Tank (SmallTank) [drewcassidy] 
 - [x] Large Holding Tank (LargeTank) [drewcassidy] 
-- [-] Surface Scanning Module (SurfaceScanner) [drewcassidy] 
-- [-] M700 Survey Scanner (SurveyScanner) [drewcassidy] 
-- [-] M4435 Narrow-Band Scanner (OrbitalScanner) [drewcassidy] 
+- [ ] Surface Scanning Module (SurfaceScanner) [drewcassidy] 
+- [ ] M700 Survey Scanner (SurveyScanner) [drewcassidy] 
+- [ ] M4435 Narrow-Band Scanner (OrbitalScanner) [drewcassidy] 
 - [x] **[RS+]** restock-oretank-1875-1 [drewcassidy] 
 - [x] **[RS+]** restock-oretank-375-1 [drewcassidy] 
 ## Science
@@ -383,7 +383,7 @@
 - [ ] Magnetometer [drewcassidy] 
 - [x] Atmospheric Fluid Spectro-Variometer (sensorAtmosphere) [drewcassidy] 
 - [x] Experiment Storage Unit (ScienceBox) [drewcassidy] 
-- [-] SENTINEL Infrared Telescope (InfraredTelescope) [drewcassidy] 
+- [ ] SENTINEL Infrared Telescope (InfraredTelescope) [drewcassidy] 
 - [x] **[RS+]** restock-goocanister-625-1 [drewcassidy] 
 - [x] **[RS+]** restock-materialbay-radial-1 [drewcassidy] 
 - [x] **[RS+]** restock-sciencebox-stack-1 [drewcassidy] 
@@ -413,20 +413,20 @@
 - [x] **[RS+]** restock-structural-tube-25-1
 - [x] **[RS+]** restock-structural-tube-375-1
 - [x] **[RS+]** restock-structural-tube-5-1
-- [k]  M-1x1 Structural Panel (structuralPanel1)
-- [k]  M-2x2 Structural Panel (structuralPanel2)
-- [k]  SP-R06 Structural Panel
-- [k]  SP-R12 Structural Panel
-- [k]  SP-R18 Structural Panel
-- [k]  SP-R25 Structural Panel
-- [k]  SP-S06 Structural Panel
-- [k]  SP-S12 Structural Panel
-- [k]  SP-S18 Structural Panel
-- [k]  SP-S25 Structural Panel
-- [k]  SP-T06 Structural Panel
-- [k]  SP-T12 Structural Panel
-- [k]  SP-T18 Structural Panel
-- [k]  SP-T25 Structural Panel
+- [x] M-1x1 Structural Panel (structuralPanel1)
+- [x] M-2x2 Structural Panel (structuralPanel2)
+- [x] SP-R06 Structural Panel
+- [x] SP-R12 Structural Panel
+- [x] SP-R18 Structural Panel
+- [x] SP-R25 Structural Panel
+- [x] SP-S06 Structural Panel
+- [x] SP-S12 Structural Panel
+- [x] SP-S18 Structural Panel
+- [x] SP-S25 Structural Panel
+- [x] SP-T06 Structural Panel
+- [x] SP-T12 Structural Panel
+- [x] SP-T18 Structural Panel
+- [x] SP-T25 Structural Panel
 - [x] **[RS+]** restock-adapter-hollow-25-375-1
 - [x] **[RS+]** restock-adapter-skeletal-25-375-1
 - [-] TT18-A Launch Stability Enhancer (launchClamp1) [drewcassidy] 
@@ -436,13 +436,13 @@
 - [x] TVR-200L Stack Bi-Adapter (adapterLargeSmallBi) [drewcassidy] 
 - [x] TVR-300L Stack Tri-Adapter (adapterLargeSmallTri) [drewcassidy] 
 - [x] TVR-400L Stack Quad-Adapter (adapterLargeSmallQuad) [drewcassidy] 
-- [ ] **[RS+]** restock-node-625-1 [drewcassidy] 
-- [ ] **[RS+]** restock-node-1875-1 [drewcassidy] 
-- [?] Small Hardpoint
-- [?] Structural Pylon
+- [x] **[RS+]** restock-node-625-1 [drewcassidy] 
+- [x] **[RS+]** restock-node-1875-1 [drewcassidy] 
+- [ ] Small Hardpoint
+- [ ] Structural Pylon
 - [x] Mk1 Hollow Fuselage
 - [x] Mk1 Structural Fuselage
-- [?] Mk3 Engine Mount
+- [ ] Mk3 Engine Mount
 ## Thermal
 - [x] Heat Shield (0.625m) (HeatShield0)
 - [x] Heat Shield (1.25m) (HeatShield1)
