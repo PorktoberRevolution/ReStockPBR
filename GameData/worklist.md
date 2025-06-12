@@ -75,7 +75,7 @@
 - **[RS+]** restock-pod-sphere-1 [Well] **(NOT IN SCOPE)**
 - **[RS+]** restock-pod-sphere-2 [Well] **(NOT IN SCOPE)**
 - **[RS+]** restock-pod-sphere-3 [Well] **(NOT IN SCOPE)**
-- [ ] **[RS+]** restock-mk2-pod [drewcassidy]
+- [a] **[RS+]** restock-mk2-pod [drewcassidy]
 - [x] EAS-1 External Command Seat (seatExternalCmd) [Kavaeric]
 - [ ] Mk3 Cockpit
 - [x] Mk2 Inline Cockpit
@@ -83,7 +83,7 @@
 - [x] Mk1 Inline Cockpit
 - [x] Mk1 Cockpit
 - [x] Mk1 Crew Cabin
-- [ ] Mk3 Passenger Module
+- [X] Mk3 Passenger Module
 - [x] MK2 Crew Cabin
 ## Communication
 - [x] Communotron 16 (longAntenna) [drewcassidy]
@@ -142,8 +142,8 @@
 - [x] Clamp-O-Tron Shielded Docking Port (dockingPort1)
 - [x] Inline Clamp-O-Tron (dockingPortLateral)
 - [x] Mk2 Clamp-O-Tron (mk2DockingPort)
-- [ ] Advanced Grabbing Unit (GrapplingDevice) [drewcassidy]
-- [ ] Advanced Grabbing Unit Jr. (smallClaw) [drewcassidy]
+- [a] Advanced Grabbing Unit (GrapplingDevice) [drewcassidy]
+- [a] Advanced Grabbing Unit Jr. (smallClaw) [drewcassidy]
 - [x] **[RS+]** restock-engineplate-125-1 [drewcassidy]
 - [x] **[RS+]** restock-engineplate-1875-1 [drewcassidy]
 - [x] **[RS+]** restock-engineplate-25-1 [drewcassidy]
@@ -222,8 +222,8 @@
 - [x] T-1 Toroidal Aerospike "Dart" Liquid Fuel Engine (toroidalAerospike) [Kavaeric]
 - [x] **[MH]** LV-T91 "Cheetah" Liquid Fuel Engine (LiquidEngineLV-T91) [Kavaeric]
 - [x] **[MH]** LV-TX87 "Bobcat" Liquid Fuel Engine (LiquidEngineLV-TX87) [Kavaeric]
-- [ ] Launch Escape System (LaunchEscapeSystem) [drewcassidy]
-- [ ] Mini Launch Escape System () [drewcassidy]
+- [a] Launch Escape System (LaunchEscapeSystem) [drewcassidy]
+- [a] Mini Launch Escape System () [drewcassidy]
 ## Fuel
 - [x] Oscar-B Fuel Tank (miniFuelTank)
 - [x] **[RS+]** (restock-fuel-tank-0625-1)
@@ -256,8 +256,8 @@
 - [x] (Rockomax16_BW)
 - [x] (Rockomax8_BW)
 - [x] **[RS+]** (restock-fueltank-sphere-25-1)
-- [ ] C7 Brand Adapter
-- [ ] C7 Brand Adapter Sloped
+- [X] C7 Brand Adapter
+- [X] C7 Brand Adapter Sloped
 - [x] Kerbodyne S3-3600 Tank (Size3SmallTank)
 - [x] Kerbodyne S3-7200 Tank (Size3MediumTank)
 - [x] Kerbodyne S3-14400 Tank (Size3LargeTank)
@@ -292,21 +292,21 @@
 - [x] Mk2 to 1.25m Adapter
 - [x] Mk2 to 1.25m Adapter Long
 - [x] **[RS+]** restock-fuselage-mk2-125-1
-- [ ] 2.5m to Mk2 Adapter
-- [ ] Mk3 to Mk2 Adapter
-- [ ] Mk3 to 2.5m Adapter
-- [ ] Mk3 to 2.5m Adapter Slanted
-- [ ] Mk3 to 3.75m Adapter
+- [X] 2.5m to Mk2 Adapter
+- [X] Mk3 to Mk2 Adapter
+- [X] Mk3 to 2.5m Adapter
+- [X] Mk3 to 2.5m Adapter Slanted
+- [X] Mk3 to 3.75m Adapter
 - [x] Mk2 Bicoupler
-- [ ] Mk3 Rocket Fuel Fuselage Short
-- [ ] Mk3 Rocket Fuel Fuselage
-- [ ] Mk3 Rocket Fuel Fuselage Long
-- [ ] Mk3 Liquid Fuel Fuselage Short
-- [ ] Mk3 Liquid Fuel Fuselage
-- [ ] Mk3 Liquid Fuel Fuselage Long
+- [X] Mk3 Rocket Fuel Fuselage Short
+- [X] Mk3 Rocket Fuel Fuselage
+- [X] Mk3 Rocket Fuel Fuselage Long
+- [X] Mk3 Liquid Fuel Fuselage Short
+- [X] Mk3 Liquid Fuel Fuselage
+- [X] Mk3 Liquid Fuel Fuselage Long
 - [x] Mk2 Monopropellant Tank
-- [ ] Mk3 Monopropellant Tank
-- [ ] Fuel Drain Vent
+- [X] Mk3 Monopropellant Tank
+- [a] Fuel Drain Vent
 ## Ground
 - [x] LT-05 Micro Landing Strut (miniLandingLeg) [drewcassidy]
 - [x] LT-1 Landing Strut (landingLeg1) [drewcassidy]
@@ -362,15 +362,15 @@
 ## Resources
 - [x] Drill-O-Matic' Mining Excavator (RadialDrill) [drewcassidy] 
 - [x] Drill-O-Matic Junior' Mining Excavator (MiniDrill) [drewcassidy] 
-- [ ] FTE-1 Drain Valve (ReleaseValve) [drewcassidy] 
-- [ ] Convert-O-Tron 125 (MiniISRU) [drewcassidy] 
-- [ ] Convert-O-Tron 250 (ISRU) [drewcassidy] 
+- [a] FTE-1 Drain Valve (ReleaseValve) [drewcassidy] 
+- [a] Convert-O-Tron 125 (MiniISRU) [drewcassidy] 
+- [a] Convert-O-Tron 250 (ISRU) [drewcassidy] 
 - [x] Radial Holding Tank (RadialOreTank) [drewcassidy] 
 - [x] Small Holding Tank (SmallTank) [drewcassidy] 
 - [x] Large Holding Tank (LargeTank) [drewcassidy] 
-- [ ] Surface Scanning Module (SurfaceScanner) [drewcassidy] 
-- [ ] M700 Survey Scanner (SurveyScanner) [drewcassidy] 
-- [ ] M4435 Narrow-Band Scanner (OrbitalScanner) [drewcassidy] 
+- [a] Surface Scanning Module (SurfaceScanner) [drewcassidy] 
+- [a] M700 Survey Scanner (SurveyScanner) [drewcassidy] 
+- [a] M4435 Narrow-Band Scanner (OrbitalScanner) [drewcassidy] 
 - [x] **[RS+]** restock-oretank-1875-1 [drewcassidy] 
 - [x] **[RS+]** restock-oretank-375-1 [drewcassidy] 
 ## Science
@@ -380,10 +380,10 @@
 - [x] Negative Gravioli Detector (sensorGravimeter) [drewcassidy] 
 - [x] Mystery Goo™ Containment Unit (GooExperiment) [drewcassidy] 
 - [x] SC-9001 Science Jr. (science_module) [drewcassidy] 
-- [ ] Magnetometer [drewcassidy] 
+- [a] Magnetometer [drewcassidy] 
 - [x] Atmospheric Fluid Spectro-Variometer (sensorAtmosphere) [drewcassidy] 
 - [x] Experiment Storage Unit (ScienceBox) [drewcassidy] 
-- [ ] SENTINEL Infrared Telescope (InfraredTelescope) [drewcassidy] 
+- [a] SENTINEL Infrared Telescope (InfraredTelescope) [drewcassidy] 
 - [x] **[RS+]** restock-goocanister-625-1 [drewcassidy] 
 - [x] **[RS+]** restock-materialbay-radial-1 [drewcassidy] 
 - [x] **[RS+]** restock-sciencebox-stack-1 [drewcassidy] 
@@ -442,7 +442,7 @@
 - [ ] Structural Pylon
 - [x] Mk1 Hollow Fuselage
 - [x] Mk1 Structural Fuselage
-- [ ] Mk3 Engine Mount
+- [x] Mk3 Engine Mount
 ## Thermal
 - [x] Heat Shield (0.625m) (HeatShield0)
 - [x] Heat Shield (1.25m) (HeatShield1)
