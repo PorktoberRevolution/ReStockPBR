@@ -48,21 +48,21 @@
 - [x] Swept Wings
 - [x] Advanced Canard
 - [x] Standard Canard
-- [ ] FAT-455 Aeroplane Main Wing
-- [ ] Big-S Wing Strake
-- [ ] Big-S Delta Wing
-- [ ] FAT-455 Aeroplane Tail Fin
+- [x] FAT-455 Aeroplane Main Wing
+- [x] Big-S Wing Strake
+- [x] Big-S Delta Wing
+- [x] FAT-455 Aeroplane Tail Fin
 - [x] Tail Fin
-- [ ] FAT-455 Aeroplane Tail Fin
-- [ ] Big-S Spaceplane Tail Fin
+- [x] FAT-455 Aeroplane Tail Fin
+- [x] Big-S Spaceplane Tail Fin
 - [x] Elevon 1
 - [x] Elevon 2
 - [x] Elevon 3
 - [x] Elevon 4
 - [x] Elevon 5
 - [ ] Big-S Elevon 1
-- [ ] Big-S Elevon 2
-- [ ] FAT-455 Aeroplane Control Surface
+- [x] Big-S Elevon 2
+- [x] FAT-455 Aeroplane Control Surface
 - [ ] A.I.R.B.R.A.K.E.S
 ## Command
 - [x] Mk1 Command Pod (mk1pod_v2)
@@ -340,10 +340,10 @@
 - **[RS+]** restock-service-module-1875-1 [Well]  **(NOT IN SCOPE)**
 - [x] Mk2 Cargo Bay CRG-04
 - [x] Mk2 Cargo Bay CRG-08
-- [ ] Mk3 Cargo Bay CRG-25
-- [ ] Mk3 Cargo Bay CRG-50
-- [ ] Mk3 Cargo Bay CRG-105
-- [ ] Mk3 Cargo Ramp
+- [x] Mk3 Cargo Bay CRG-25
+- [x] Mk3 Cargo Bay CRG-50
+- [x] Mk3 Cargo Bay CRG-105
+- [x] Mk3 Cargo Ramp
 ## Probes
 - [x] **[RS+]** restock-drone-core-0625-1
 - [x] RC-001S Remote Guidance Unit (probeStackSmall)
@@ -438,8 +438,8 @@
 - [x] TVR-400L Stack Quad-Adapter (adapterLargeSmallQuad) [drewcassidy] 
 - [x] **[RS+]** restock-node-625-1 [drewcassidy] 
 - [x] **[RS+]** restock-node-1875-1 [drewcassidy] 
-- [ ] Small Hardpoint
-- [ ] Structural Pylon
+- [x] Small Hardpoint
+- [x] Structural Pylon
 - [x] Mk1 Hollow Fuselage
 - [x] Mk1 Structural Fuselage
 - [x] Mk3 Engine Mount
