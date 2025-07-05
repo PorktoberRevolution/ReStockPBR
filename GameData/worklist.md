@@ -115,6 +115,7 @@
 - [x] **[RS+]** RV-105-A RCS Thruster Block
 - [x] **[RS+]** RV-1X-A RCS Thruster Block
 - [x] **[RS+]** restock-reactionwheel-radial-1 [drewcassidy]
+- [ ] CH-J3 Fly-By-Wire Avionics Hub
 ## Coupling
 - [x] TD-06 Decoupler (Decoupler_0)
 - [x] TD-12 Decoupler (Decoupler_1)
